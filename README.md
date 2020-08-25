@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-------
 
 ### 👌 Status
 
@@ -49,6 +48,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
 
+---------
 
 ### 🔭 Devices I am using
 <details>
