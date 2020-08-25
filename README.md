@@ -20,34 +20,6 @@
 * 👯 Site: https://www.cyf-cloud.cn
 * ⚡ Api: https://api.cyf-cloud.cn/v1
 
----
-
-
-<!-- BLOG-POST-LIST:START-->
-<!-- BLOG-POST-LIST:END-->
-
-<!--
-**cyf-gh/cyf-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 👌 Status
-
-<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
-
 ---------
 
 ### 🔭 Devices I am using
@@ -124,3 +96,15 @@ Dell Precision 3510
 * 500G 7400rpm
 </details>
 
+---
+
+
+<!-- BLOG-POST-LIST:START-->
+<!-- BLOG-POST-LIST:END-->
+
+
+### 👌 Status
+
+<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
