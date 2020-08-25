@@ -11,6 +11,10 @@
  
  🌱 An amateur programmer keen on C/C++, C#, Golang and Internet &Cloud technology. Poor at English and Japanese. Maintaining some Minecraft servers ⛏. Struggling with f@cking life.
 
+### Something further more than github.
+* gitee: https://gitee.com/cyf-my/
+* gitbook: https://cyf-ms.gitbook.io/
+
 ---
 
 ### Web Services
