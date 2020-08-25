@@ -40,6 +40,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+------
+
+### 👌 Status
+
+<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
+
+
 ### 🔭 Devices I am using
 <details>
 <summary>Terminal Devices</summary>
@@ -114,10 +124,3 @@ Dell Precision 3510
 * 500G 7400rpm
 </details>
 
-------
-
-### 👌 Status
-
-<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
