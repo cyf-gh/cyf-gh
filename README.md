@@ -20,7 +20,6 @@
 * 👯 Site: https://www.cyf-cloud.cn
 * ⚡ Api: https://api.cyf-cloud.cn/v1
 
-===
 
 * ⛏ Minecraft：https://www.cyf-cloud.cn/#/mc
 ---------
