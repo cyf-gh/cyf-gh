@@ -33,7 +33,16 @@
 ---------
 
  <!-- waka-box start -->
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/31a37954e5aa6f6a38e2b249e472ed9f" target="_blank">📊 Weekly development breakdown</a>
+```text
+Vue.js                   🕓 8h23m ████████▊░░░░░ 63.4%
+Go                       🕓 1h46m █▊░░░░░░░░░░░░ 13.4%
+Bash                     🕓 1h18m █▍░░░░░░░░░░░░  9.8%
+JSON                     🕓 34m   ▌░░░░░░░░░░░░░  4.3%
+INI                      🕓 28m   ▌░░░░░░░░░░░░░  3.6%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 ### 🔭 Devices I am using
 <details>
