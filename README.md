@@ -58,11 +58,6 @@ OnePlus Pro 7
 
 *Tablet*
 
-Lenovo Thinkpad 8
-* Atom Z3795 1.6Ghz
-* 4G RAM
-Good for viewing bangumi
-
 *Laptop*
 
 Dell Precision 3510
