@@ -5,7 +5,7 @@
  * @FilePath: \cyf-gh\README.md
  * @Description: What is mind? No matter. What is matter? Nevermind.
 -->
-### Who am I? Or who is lod? 🤔 
+### Lod? 🤔 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
