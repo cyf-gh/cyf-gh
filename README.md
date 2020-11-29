@@ -155,13 +155,15 @@ Dell Precision 3510
 * 240G Samsung SSD
 
 </details>
+<br>
+<img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
 
 </td>
 <td valign="top" width="50%">
  
 ### 👌 Status
 
-<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
 </td>
