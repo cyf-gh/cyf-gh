@@ -47,7 +47,7 @@ Makefile   🕓 3m    ▍░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-### 🔭 Devices I am using
+### 🔭 Gears
 <details>
 <summary>Terminal Devices</summary>
 
@@ -60,20 +60,23 @@ OnePlus Pro 7
 
 *Tablet*
 
+iPad Mini 2 32G
+
 *Laptop*
 
 Dell Precision 3510
 * Intel Core i7-6820HQ
-* 16G DDR4 2133 Single
+* 16G 2133 x 1
 * 480G NVME SSD
 * AMD FirePro W5130M
-* 1080P 120hz LCD (  Replaced by myself )
+* 1080P 120hz LCD
 
 *Desktop*
 
 * Intel X79 Motherboard
+* Antec EAG 450W ( Gold )
 * Intel Xeon E5 2650 v2
-*32G( 8G 1333 ECC x 2 + 16G 1333 ECC x 1 )
+* 8G 1333 ECC x 2
 * 480G SATA SSD
 * AMD RX 470
 *Displays*
@@ -84,25 +87,36 @@ Dell Precision 3510
 *Server*
 
 * ASUS P7P55 Deluxe
+* Antec EAG 500W ( Gold )
 * Intel Xeon 3440x
-* 8G 1333 * 2
+* 8G 1333 x 2
 * 4TB + 320G + 500G HDD
 * 64G msata SSD + 128 SATA SSD
 </details>
 
 
 <details>
-<summary>External Devices</summary>
+<summary>External</summary>
 
 *Keyboards*
 
 * Durgod Taurus K320 (MX Silver)
-* Steampunk (MX Blue)
+* ~~Steampunk (MX Blue)~~
 * Plum Niz 66(Niz Capacitive)
+* IBM Model M Blue
+* Box white 84
+* OutEmu purple + Box red + Box black 84
 
 *Mouse*
 
 * Logitech MX Master 2S
+* Free Alienware Mouse
+
+*🎮Joysticks*
+
+* Xbox One S White 
+* PS3 Dualshock
+* BETOP Bet 2d
 
 *Headphones*
 
@@ -114,6 +128,8 @@ Dell Precision 3510
 
 * 2TB + 500G 5400rpm
 * 500G 7400rpm
+* 240G Samsung SSD
+
 </details>
 
 ---
