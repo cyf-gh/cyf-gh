@@ -63,7 +63,12 @@ Makefile   🕓 3m    ▍░░░░░░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/6a2b9baaa286f3d5020be5def60398a3" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 </td>
 </tr>
 </table>
