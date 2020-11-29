@@ -69,7 +69,7 @@ Makefile   🕓 3m    ▍░░░░░░░░░░░░░░░░░░�
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🔭 Gears
 <details>
@@ -159,13 +159,13 @@ Dell Precision 3510
 <img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
 
 </td>
-<td valign="top" width="50%">
- 
-### 👌 Status
-
+<td valign="top" width="33%">
+ <br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
+</td>
+<td valign="top" width="33%">
+ <br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
 </td>
 </tr>
 </table>
