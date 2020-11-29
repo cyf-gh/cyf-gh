@@ -161,6 +161,7 @@ Dell Precision 3510
 
 </td>
 <td valign="top" width="50%">
+
 <img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
 
 </td>
