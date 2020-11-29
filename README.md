@@ -62,22 +62,15 @@ Makefile   🕓 3m    ▍░░░░░░░░░░░░░░░░░░�
 
 </td>
 <td valign="top" width="50%">
- 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/6a2b9baaa286f3d5020be5def60398a3" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
+ <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### 🔭 Gears
 *last update on 11.29.2020*
@@ -165,16 +158,11 @@ Dell Precision 3510
 
 </details>
 <br>
-<img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
 
 </td>
-<td valign="top" width="33%">
- <br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&hide=html" alt="cyf-gh" /></p>
-</td>
-<td valign="top" width="33%">
- <br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
+<td valign="top" width="50%">
+<img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
+
 </td>
 </tr>
 </table>
