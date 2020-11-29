@@ -32,6 +32,7 @@
 <td valign="top" width="50%">
 
 ### Web Services
+---
 * 👯 Site: https://www.cyf-cloud.cn | https://se.cyf-cloud.cn:8888
 * ⚡ Api: 
   * https://api.cyf-cloud.cn/v1 | https://se.cyf-cloud.cn:2346
@@ -72,8 +73,9 @@ Makefile   🕓 3m    ▍░░░░░░░░░░░░░░░░░░�
 <td valign="top" width="33%">
 
 ### 🔭 Gears
+*last update on 11.29.2020*
 <details>
-<summary>Terminal Devices</summary>
+<summary>Terminal</summary>
 
 *Phone*
 
