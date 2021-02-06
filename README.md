@@ -62,8 +62,9 @@ Git Config               🕓 5m    ░░░░░░░░░░░░░░  
 
 </td>
 <td valign="top" width="50%">
- <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
+ 
+  <!-- steam-box start -->
+ <!-- steam-box end -->
 </td>
 </tr>
 </table>
@@ -72,98 +73,13 @@ Git Config               🕓 5m    ░░░░░░░░░░░░░░  
 <tr>
 <td valign="top" width="50%">
 
-### 🔭 Gears
-*last update on 11.29.2020*
-<details>
-<summary>Terminal</summary>
-
-*Phone*
-
-OnePlus Pro 7
-* 8G RAM
-* 256G Storage
-* Snapdragon 855
-
-*Tablet*
-
-iPad Mini 2 32G
-
-*Laptop*
-
-Dell Precision 3510
-* Intel Core i7-6820HQ
-* 16G 2133 x 1
-* 480G NVME SSD
-* AMD FirePro W5130M
-* 1080P 120hz LCD
-
-*Desktop*
-
-* Intel X79 Motherboard
-* Antec EAG 450W ( Gold )
-* Intel Xeon E5 2650 v2
-* 8G 1333 ECC x 2
-* 480G SATA SSD
-* AMD RX 470
-*Displays*
-
-* Samsung S24D360
-* Dell U2311H
-
-*Server*
-
-* ASUS P7P55 Deluxe
-* Antec EAG 500W ( Gold )
-* Intel Xeon 3440x
-* 8G 1333 x 2
-* 4TB + 320G + 500G HDD
-* 64G msata SSD + 128 SATA SSD
-</details>
-
-
-<details>
-<summary>External</summary>
-
-*Keyboards*
-
-* Durgod Taurus K320 (MX Silver)
-* ~~Steampunk (MX Blue)~~
-* Plum Niz 66(Niz Capacitive)
-* IBM Model M Blue
-* Box white 84
-* OutEmu purple + Box red + Box black 84
-
-*Mouse*
-
-* Logitech MX Master 2S
-* Free Alienware Mouse
-
-*🎮Joysticks*
-
-* Xbox One S White 
-* PS3 Dualshock
-* BETOP Bet 2d
-
-*Headphones*
-
-* Sony MDR-CD900st
-* Sony MDR-EX750na( with Fiio BTR1K Bluetooth Amplifier )
-* GRADO se125e
-  
-*Protable Storage*
-
-* 2TB + 500G 5400rpm
-* 500G 7400rpm
-* 240G Samsung SSD
-
-</details>
-<br>
-
-</td>
-<td valign="top" width="50%">
-
 <img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
 
 </td>
+<td>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
+</td>
+
 </tr>
 </table>
