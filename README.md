@@ -64,6 +64,15 @@ Git Config               🕓 5m    ░░░░░░░░░░░░░░  
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
+```text
+🎮 Sonic Mania                      🕘 5 hrs 8 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 2 hrs 23 mins
+🎮 Sonic CD                         🕘 1 hrs 51 mins
+🎮 DOOM                             🕘 5 hrs 5 mins
+🎮 SEGA Mega Drive & Genesis Classics 🕘 1 hrs 35 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
 </tr>
