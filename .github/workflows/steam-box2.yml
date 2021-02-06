@@ -28,7 +28,8 @@ jobs:
       - name: Clone and run steam-box
         run: |-
           git clone https://github.com/cyf-gh/steam-box.git 
-          cd steam-box && go build -o steam ./cmd/box/main.go
+          cd steam-box
+          go run ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
       - name: Commit and push
         run: |-
