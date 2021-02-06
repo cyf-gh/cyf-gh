@@ -62,9 +62,9 @@ Git Config               🕓 5m    ░░░░░░░░░░░░░░  
 
 </td>
 <td valign="top" width="50%">
- 
-  <!-- steam-box start -->
- <!-- steam-box end -->
+
+<!-- steam-box start -->
+<!-- steam-box end -->
 </td>
 </tr>
 </table>
