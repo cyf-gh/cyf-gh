@@ -66,10 +66,10 @@ JavaScript               🕓 24m   ▎░░░░░░░░░░░░░  
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 9 hrs 6 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 9 hrs 9 mins
 🎮 Sonic Mania                      🕘 8 hrs 36 mins
 🎮 Sonic CD                         🕘 1 hrs 51 mins
-🎮 DOOM                             🕘 5 hrs 5 mins
+🎮 DOOM                             🕘 5 hrs 10 mins
 🎮 Space Channel 5: Part 2          🕘 0 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
