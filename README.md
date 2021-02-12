@@ -70,7 +70,7 @@ JavaScript               🕓 24m   ▎░░░░░░░░░░░░░  
 🎮 Sonic Mania                      🕘 8 hrs 6 mins
 🎮 Sonic CD                         🕘 1 hrs 51 mins
 🎮 DOOM                             🕘 5 hrs 5 mins
-🎮 Muse Dash                        🕘 0 hrs 11 mins
+🎮 Space Channel 5: Part 2          🕘 0 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
