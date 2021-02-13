@@ -68,9 +68,9 @@ JavaScript               🕓 23m    ▎░░░░░░░░░░░░  2.
 ```text
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 9 hrs 52 mins
 🎮 Sonic Mania                      🕘 8 hrs 36 mins
-🎮 Sonic CD                         🕘 1 hrs 51 mins
 🎮 DOOM                             🕘 5 hrs 10 mins
 🎮 Space Channel 5: Part 2          🕘 0 hrs 59 mins
+🎮 Muse Dash                        🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
