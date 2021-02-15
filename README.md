@@ -67,7 +67,7 @@ JSON       🕓 12m   ▎░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 9 hrs 52 mins
-🎮 Sonic Mania                      🕘 8 hrs 36 mins
+🎮 Sonic Mania                      🕘 8 hrs 54 mins
 🎮 DOOM                             🕘 6 hrs 40 mins
 🎮 Space Channel 5: Part 2          🕘 0 hrs 59 mins
 🎮 Muse Dash                        🕘 0 hrs 11 mins
