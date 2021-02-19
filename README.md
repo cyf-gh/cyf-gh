@@ -68,7 +68,7 @@ JSON       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 11 mins
 🎮 Sonic Mania                      🕘 8 hrs 54 mins
-🎮 Overcooked! 2                    🕘 15 hrs 11 mins
+🎮 Overcooked! 2                    🕘 15 hrs 27 mins
 🎮 DOOM                             🕘 6 hrs 40 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 5 mins
 ```
