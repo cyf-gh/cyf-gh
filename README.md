@@ -70,7 +70,7 @@ JSON       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 🎮 Sonic Mania                      🕘 8 hrs 54 mins
 🎮 Overcooked! 2                    🕘 14 hrs 41 mins
 🎮 DOOM                             🕘 6 hrs 40 mins
-🎮 Space Channel 5: Part 2          🕘 0 hrs 59 mins
+🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
