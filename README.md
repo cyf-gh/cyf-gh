@@ -66,9 +66,9 @@ JSON       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 9 hrs 52 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 11 mins
 🎮 Sonic Mania                      🕘 8 hrs 54 mins
-🎮 Overcooked! 2                    🕘 14 hrs 41 mins
+🎮 Overcooked! 2                    🕘 15 hrs 11 mins
 🎮 DOOM                             🕘 6 hrs 40 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 5 mins
 ```
