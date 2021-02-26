@@ -64,8 +64,8 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Overcooked! 2                    🕘 15 hrs 27 mins
-🎮 DOOM                             🕘 6 hrs 41 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
+🎮 DOOM                             🕘 6 hrs 41 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 15 mins
 🎮 Crazy Taxi                       🕘 0 hrs 18 mins
 ```
