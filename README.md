@@ -67,7 +67,7 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 🎮 DOOM                             🕘 6 hrs 41 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 15 mins
-🎮 Space Channel 5: Part 2          🕘 0 hrs 59 mins
+🎮 Sonic Mania                      🕘 8 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
