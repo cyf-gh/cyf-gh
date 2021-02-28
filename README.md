@@ -63,9 +63,9 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Overcooked! 2                    🕘 16 hrs 1 mins
+🎮 Overcooked! 2                    🕘 16 hrs 13 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
-🎮 Crazy Taxi                       🕘 0 hrs 48 mins
+🎮 Crazy Taxi                       🕘 1 hrs 5 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 15 mins
 🎮 Sonic Mania                      🕘 8 hrs 54 mins
 ```
