@@ -67,7 +67,7 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
 🎮 Crazy Taxi                       🕘 1 hrs 5 mins
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 15 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
