@@ -65,8 +65,8 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Overcooked! 2                    🕘 16 hrs 13 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
+🎮 SEGA Mega Drive & Genesis Classics 🕘 2 hrs 56 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
-🎮 Crazy Taxi                       🕘 1 hrs 5 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
