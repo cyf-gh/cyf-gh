@@ -63,9 +63,9 @@ Go   🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 Overcooked! 2                    🕘 16 hrs 13 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
-🎮 SEGA Mega Drive & Genesis Classics 🕘 2 hrs 56 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 58 mins
 ```
