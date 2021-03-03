@@ -65,8 +65,8 @@ YAML 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 Overcooked! 2                    🕘 16 hrs 13 mins
 🎮 Age of Empires II: Definitive Edition 🕘 8 hrs 7 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 8 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 10 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
