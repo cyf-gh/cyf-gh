@@ -65,8 +65,8 @@ Text 🕓 8m ██████████████████████�
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
 🎮 Age of Empires II: Definitive Edition 🕘 9 hrs 16 mins
-🎮 Crazy Taxi                       🕘 1 hrs 5 mins
 🎮 Sonic Mania                      🕘 9 hrs 57 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
