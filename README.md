@@ -64,7 +64,7 @@ Text 🕓 8m ██████████████████████�
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 11 hrs 2 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
-🎮 DiRT 4                           🕘 1 hrs 14 mins
+🎮 DiRT 4                           🕘 1 hrs 25 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
 🎮 Sonic Mania                      🕘 9 hrs 57 mins
 ```
