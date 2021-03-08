@@ -63,7 +63,7 @@ Text 🕓 8m ██████████████████████�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 11 hrs 2 mins
-🎮 DiRT 4                           🕘 1 hrs 55 mins
+🎮 DiRT 4                           🕘 2 hrs 8 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 DOOM                             🕘 7 hrs 53 mins
 🎮 Sonic Mania                      🕘 9 hrs 57 mins
