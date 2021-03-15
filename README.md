@@ -67,7 +67,7 @@ Git        🕓 5m    ▌░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 16 hrs 20 mins
-🎮 DiRT 4                           🕘 4 hrs 10 mins
+🎮 DiRT 4                           🕘 5 hrs 10 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 Sonic Mania                      🕘 9 hrs 57 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 8 mins
