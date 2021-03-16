@@ -70,7 +70,7 @@ Git        🕓 5m    ▌░░░░░░░░░░░░░░░░░░�
 🎮 DiRT 4                           🕘 5 hrs 18 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 17 mins
 🎮 Sonic Mania                      🕘 9 hrs 57 mins
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 8 mins
+🎮 Space Channel 5: Part 2          🕘 1 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
