@@ -69,7 +69,6 @@ Git        🕓 5m    ▌░░░░░░░░░░░░░░░░░░�
 🎮 Age of Empires II: Definitive Edition 🕘 16 hrs 20 mins
 🎮 DiRT 4                           🕘 5 hrs 18 mins
 🎮 Space Channel 5: Part 2          🕘 1 hrs 35 mins
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 8 mins
 ⚔️ Dota 2                           🕘 1720 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
