@@ -66,7 +66,7 @@ Text  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 17 hrs 20 mins
+🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 20 mins
 🎮 DiRT 4                           🕘 5 hrs 18 mins
 ⚔️ Dota 2                           🕘 1720 hrs 26 mins
 ```
