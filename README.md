@@ -66,6 +66,7 @@ Text 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 DiRT 4                           🕘 5 hrs 18 mins
+🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 10 mins
 ⚔️ Dota 2                           🕘 1720 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
