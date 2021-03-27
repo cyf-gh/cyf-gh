@@ -64,7 +64,7 @@ Text 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 DiRT 4                           🕘 6 hrs 6 mins
-🎮 Grand Theft Auto IV: The Complete Edition 🕘 0 hrs 28 mins
+🎮 Grand Theft Auto IV: The Complete Edition 🕘 0 hrs 52 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 10 mins
 ⚔️ Dota 2                           🕘 1720 hrs 26 mins
 ```
