@@ -65,7 +65,7 @@ Bash 🕓 1m █████████████▍░░░░░░░░�
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
-🎮 Grim Dawn                        🕘 2 hrs 51 mins
+🎮 Grim Dawn                        🕘 2 hrs 53 mins
 🎮 DiRT 4                           🕘 6 hrs 6 mins
 🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 10 mins
 ```
