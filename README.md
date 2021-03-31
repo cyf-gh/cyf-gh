@@ -67,7 +67,7 @@ Bash 🕓 1m █████████████▍░░░░░░░░�
 🎮 DiRT 4                           🕘 6 hrs 49 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
 🎮 Grim Dawn                        🕘 2 hrs 53 mins
-🎮 Superdimension Neptune VS Sega Hard Girls 🕘 11 hrs 10 mins
+🎮 Jet Set Radio                    🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
