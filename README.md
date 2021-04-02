@@ -66,9 +66,9 @@ Text 🕓 0s ▌░░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 DiRT 4                           🕘 6 hrs 49 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
-🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 Grim Dawn                        🕘 2 hrs 53 mins
 🎮 Jet Set Radio                    🕘 0 hrs 33 mins
+🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
