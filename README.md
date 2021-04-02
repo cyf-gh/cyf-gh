@@ -64,9 +64,9 @@ Text 🕓 0s ▌░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 DiRT 4                           🕘 6 hrs 49 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
+🎮 Age of Empires II: Definitive Edition 🕘 18 hrs 34 mins
 🎮 Grim Dawn                        🕘 2 hrs 53 mins
 🎮 Jet Set Radio                    🕘 0 hrs 33 mins
 ```
