@@ -68,7 +68,7 @@ Text 🕓 0s ▌░░░░░░░░░░░░░░░░░░░░░�
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
 🎮 Grim Dawn                        🕘 2 hrs 53 mins
 🎮 Age of Empires II: Definitive Edition 🕘 19 hrs 40 mins
-🎮 Jet Set Radio                    🕘 0 hrs 33 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
