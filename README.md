@@ -64,9 +64,9 @@ Text 🕓 0s █░░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 雀魂麻将(MahjongSoul)            🕘 11 hrs 50 mins
+🎮 Age of Empires II: Definitive Edition 🕘 20 hrs 14 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
 🎮 Grim Dawn                        🕘 2 hrs 53 mins
-🎮 Age of Empires II: Definitive Edition 🕘 19 hrs 40 mins
 🎮 DiRT 4                           🕘 6 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
