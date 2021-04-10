@@ -68,7 +68,7 @@ Text       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 ```text
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 21 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 2 hrs 45 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 3 hrs 46 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
 🎮 DiRT 4                           🕘 7 hrs 30 mins
 ```
