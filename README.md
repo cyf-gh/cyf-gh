@@ -67,8 +67,8 @@ Text       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 21 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 4 hrs 23 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 3 hrs 46 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 1 hrs 28 mins
 🎮 DiRT 4                           🕘 7 hrs 30 mins
 ```
