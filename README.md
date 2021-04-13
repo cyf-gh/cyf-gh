@@ -67,9 +67,9 @@ Text       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 ```text
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 21 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 7 hrs 15 mins
-⚔️ Dota 2                           🕘 1726 hrs 20 mins
+⚔️ Dota 2                           🕘 1726 hrs 25 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
-🎮 DiRT 4                           🕘 7 hrs 30 mins
+🎮 DiRT 4                           🕘 7 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
