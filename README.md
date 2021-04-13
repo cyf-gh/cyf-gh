@@ -69,7 +69,7 @@ Text       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 🎮 Puyo Puyo™ Tetris® 2             🕘 7 hrs 15 mins
 ⚔️ Dota 2                           🕘 1726 hrs 25 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
-🎮 DiRT 4                           🕘 7 hrs 34 mins
+🎮 DOOM                             🕘 8 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
