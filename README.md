@@ -69,7 +69,7 @@ TOML       🕓 1m  █▍░░░░░░░░░░░░░░░░░░
 🎮 Puyo Puyo™ Tetris® 2             🕘 7 hrs 15 mins
 ⚔️ Dota 2                           🕘 1726 hrs 25 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
-🎮 Fallout 4                        🕘 2 hrs 51 mins
+🎮 Fallout 4                        🕘 3 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
