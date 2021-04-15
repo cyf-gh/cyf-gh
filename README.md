@@ -67,7 +67,7 @@ TOML       🕓 1m  █▋░░░░░░░░░░░░░░░░░░
 ```text
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 21 mins
 🎮 Fallout 4                        🕘 10 hrs 46 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 8 hrs 46 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 9 hrs 57 mins
 ⚔️ Dota 2                           🕘 1726 hrs 25 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
 ```
