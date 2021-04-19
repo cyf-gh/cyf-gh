@@ -68,7 +68,7 @@ JavaScript 🕓 10m  █▏░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Fallout 4                        🕘 15 hrs 55 mins
 ⚔️ Dota 2                           🕘 1732 hrs 16 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 10 hrs 57 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 11 hrs 44 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 21 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
 ```
