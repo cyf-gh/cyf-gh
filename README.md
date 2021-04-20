@@ -69,8 +69,8 @@ JavaScript 🕓 10m  █▏░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1736 hrs 40 mins
 🎮 Fallout 4                        🕘 15 hrs 55 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 15 hrs 19 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 35 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
