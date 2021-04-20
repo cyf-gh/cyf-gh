@@ -68,7 +68,7 @@ JavaScript 🕓 10m  █▏░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Fallout 4                        🕘 15 hrs 55 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 15 hrs 19 mins
-⚔️ Dota 2                           🕘 1734 hrs 32 mins
+⚔️ Dota 2                           🕘 1735 hrs 2 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 13 hrs 35 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
 ```
