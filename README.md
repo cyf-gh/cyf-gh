@@ -66,7 +66,7 @@ JavaScript 🕓 10m  █▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Fallout 4                        🕘 16 hrs 25 mins
+🎮 Fallout 4                        🕘 17 hrs 26 mins
 ⚔️ Dota 2                           🕘 1736 hrs 40 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 15 hrs 19 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
