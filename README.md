@@ -70,7 +70,7 @@ JavaScript 🕓 10m  █▎░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1736 hrs 40 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 15 hrs 19 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
-🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 32 mins
+🎮 DiRT Rally 2.0                   🕘 1 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
