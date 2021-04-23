@@ -70,7 +70,7 @@ JavaScript 🕓 10m  █▎░░░░░░░░░░░░░░░░░�
 🎮 Fallout 4                        🕘 18 hrs 31 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 15 hrs 19 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
-🎮 DiRT Rally 2.0                   🕘 1 hrs 15 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 14 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
