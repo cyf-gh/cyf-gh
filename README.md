@@ -68,9 +68,9 @@ YAML       🕓 11m   █░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1743 hrs 13 mins
 🎮 Fallout 4                        🕘 18 hrs 31 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 16 hrs 44 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 12 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 14 hrs 42 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 14 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
