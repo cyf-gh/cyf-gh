@@ -64,8 +64,8 @@ Properties 🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1743 hrs 13 mins
 🎮 Fallout 4                        🕘 18 hrs 31 mins
+⚔️ Dota 2                           🕘 1743 hrs 13 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 12 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 14 hrs 47 mins
