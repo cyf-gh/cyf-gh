@@ -68,7 +68,7 @@ Properties 🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 ⚔️ Dota 2                           🕘 1743 hrs 42 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 12 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
-🎮 NieR:Automata™                   🕘 2 hrs 12 mins
+🎮 NieR:Automata™                   🕘 3 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
