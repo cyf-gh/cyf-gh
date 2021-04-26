@@ -65,10 +65,10 @@ Properties 🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Fallout 4                        🕘 18 hrs 31 mins
-⚔️ Dota 2                           🕘 1743 hrs 13 mins
+⚔️ Dota 2                           🕘 1743 hrs 42 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 12 mins
 🎮 Ori and the Blind Forest         🕘 3 hrs 58 mins
-🎮 NieR:Automata™                   🕘 1 hrs 38 mins
+🎮 NieR:Automata™                   🕘 2 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
