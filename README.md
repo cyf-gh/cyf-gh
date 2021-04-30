@@ -63,8 +63,8 @@ JavaScript 🕓 59m ████████████████████
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1748 hrs 32 mins
-🎮 Fallout 4                        🕘 18 hrs 59 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 14 mins
+🎮 Fallout 4                        🕘 18 hrs 59 mins
 🎮 NieR:Automata™                   🕘 5 hrs 35 mins
 🎮 Ori and the Blind Forest         🕘 4 hrs 1 mins
 ```
