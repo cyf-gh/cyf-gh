@@ -64,7 +64,7 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 1749 hrs 45 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 14 mins
-🎮 NieR:Automata™                   🕘 5 hrs 35 mins
+🎮 NieR:Automata™                   🕘 6 hrs 7 mins
 🎮 Fallout 4                        🕘 18 hrs 59 mins
 🎮 Ori and the Blind Forest         🕘 4 hrs 1 mins
 ```
