@@ -62,11 +62,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1759 hrs 2 mins
+⚔️ Dota 2                           🕘 1759 hrs 32 mins
 🎮 NieR:Automata™                   🕘 21 hrs 25 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 15 hrs 39 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 14 mins
-🎮 Fallout 4                        🕘 18 hrs 59 mins
+🔫 Counter-Strike: Global Offensive 🕘 121 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
