@@ -64,8 +64,8 @@ Still Gathering Statistics...
 ```text
 🎮 NieR:Automata™                   🕘 24 hrs 31 mins
 ⚔️ Dota 2                           🕘 1763 hrs 23 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 15 hrs 39 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 14 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 15 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 122 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
