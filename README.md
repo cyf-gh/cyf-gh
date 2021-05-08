@@ -66,7 +66,7 @@ Still Gathering Statistics...
 ⚔️ Dota 2                           🕘 1767 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 122 hrs 2 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 15 hrs 39 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 14 mins
+🎮 Fallout 4                        🕘 18 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
