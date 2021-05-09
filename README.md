@@ -64,8 +64,8 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 1769 hrs 53 mins
 🎮 NieR:Automata™                   🕘 24 hrs 31 mins
-🔫 Counter-Strike: Global Offensive 🕘 122 hrs 2 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 15 hrs 39 mins
+🔫 Counter-Strike: Global Offensive 🕘 122 hrs 2 mins
 🎮 Fallout 4                        🕘 18 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
