@@ -64,7 +64,7 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 1769 hrs 53 mins
 🎮 NieR:Automata™                   🕘 24 hrs 31 mins
-🎮 Apex Legends                     🕘 2 hrs 38 mins
+🎮 Apex Legends                     🕘 3 hrs 7 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 17 hrs 1 mins
 🔫 Counter-Strike: Global Offensive 🕘 122 hrs 2 mins
 ```
