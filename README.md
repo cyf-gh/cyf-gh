@@ -62,7 +62,7 @@ NASM 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1779 hrs 12 mins
+⚔️ Dota 2                           🕘 1780 hrs 7 mins
 🎮 NieR:Automata™                   🕘 24 hrs 31 mins
 🎮 Apex Legends                     🕘 5 hrs 35 mins
 🔫 Counter-Strike: Global Offensive 🕘 123 hrs 21 mins
