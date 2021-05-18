@@ -66,7 +66,7 @@ Git Config 🕓 6m    ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1787 hrs 18 mins
+⚔️ Dota 2                           🕘 1787 hrs 41 mins
 🎮 Apex Legends                     🕘 5 hrs 35 mins
 🎮 NieR:Automata™                   🕘 24 hrs 31 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 18 hrs 14 mins
