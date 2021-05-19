@@ -70,7 +70,7 @@ POVRay     🕓 17m   █▏░░░░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 5 hrs 35 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 18 hrs 14 mins
 🔫 Counter-Strike: Global Offensive 🕘 123 hrs 21 mins
-🎮 NieR:Automata™                   🕘 24 hrs 31 mins
+🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
