@@ -68,7 +68,7 @@ POVRay     🕓 17m   █▏░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1793 hrs 0 mins
 🎮 Apex Legends                     🕘 5 hrs 35 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 18 hrs 14 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 17 mins
 🔫 Counter-Strike: Global Offensive 🕘 123 hrs 59 mins
 🎮 Age of Empires II: Definitive Edition 🕘 22 hrs 37 mins
 ```
