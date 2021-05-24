@@ -64,7 +64,7 @@ POVRay   🕓 8m    █▍░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1796 hrs 50 mins
+⚔️ Dota 2                           🕘 1797 hrs 21 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
 🔫 Counter-Strike: Global Offensive 🕘 123 hrs 59 mins
 🎮 Apex Legends                     🕘 5 hrs 35 mins
