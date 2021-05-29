@@ -63,8 +63,8 @@ Text 🕓 12m ██████████████████████
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1805 hrs 16 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 28 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
 🎮 Age of Empires II: Definitive Edition 🕘 23 hrs 27 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 39 mins
 ```
