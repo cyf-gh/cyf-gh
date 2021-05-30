@@ -68,8 +68,8 @@ Other      🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 ```text
 ⚔️ Dota 2                           🕘 1805 hrs 16 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 28 mins
+🎮 Age of Empires II: Definitive Edition 🕘 24 hrs 12 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
-🎮 Age of Empires II: Definitive Edition 🕘 23 hrs 27 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
