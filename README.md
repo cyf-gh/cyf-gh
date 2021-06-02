@@ -67,7 +67,7 @@ JSON       🕓 1m    ▏░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1807 hrs 29 mins
-🎮 Age of Empires II: Definitive Edition 🕘 25 hrs 38 mins
+🎮 Age of Empires II: Definitive Edition 🕘 27 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 39 mins
