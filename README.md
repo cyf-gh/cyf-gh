@@ -69,8 +69,8 @@ Other      🕓 13m   █▌░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1810 hrs 51 mins
 🎮 Age of Empires II: Definitive Edition 🕘 27 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 33 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 39 mins
+🎮 Ori and the Blind Forest         🕘 4 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
