@@ -69,8 +69,8 @@ YAML     🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 ⚔️ Dota 2                           🕘 1811 hrs 41 mins
 🎮 Age of Empires II: Definitive Edition 🕘 27 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 17 hrs 39 mins
-🎮 Ori and the Blind Forest         🕘 4 hrs 24 mins
+🎮 Sonic CD                         🕘 2 hrs 13 mins
+🎮 DiRT Rally 2.0                   🕘 1 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
