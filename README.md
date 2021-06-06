@@ -67,7 +67,7 @@ YAML     🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1813 hrs 58 mins
-🎮 Age of Empires II: Definitive Edition 🕘 29 hrs 14 mins
+🎮 Age of Empires II: Definitive Edition 🕘 29 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 Sonic CD                         🕘 2 hrs 13 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 27 mins
