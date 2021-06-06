@@ -66,11 +66,11 @@ YAML     🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1812 hrs 11 mins
+⚔️ Dota 2                           🕘 1813 hrs 31 mins
 🎮 Age of Empires II: Definitive Edition 🕘 27 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 Sonic CD                         🕘 2 hrs 13 mins
-🎮 DiRT Rally 2.0                   🕘 1 hrs 27 mins
+🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
