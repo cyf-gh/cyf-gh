@@ -69,8 +69,8 @@ C#       🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1815 hrs 46 mins
 🎮 Age of Empires II: Definitive Edition 🕘 29 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
-🎮 Sonic CD                         🕘 2 hrs 13 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 27 mins
+🎮 Fallout 4                        🕘 19 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
