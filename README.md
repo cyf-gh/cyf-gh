@@ -66,7 +66,7 @@ C#       🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1817 hrs 47 mins
+⚔️ Dota 2                           🕘 1817 hrs 49 mins
 🎮 Age of Empires II: Definitive Edition 🕘 29 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
