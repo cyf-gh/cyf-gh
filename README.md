@@ -66,11 +66,11 @@ C#       🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1815 hrs 46 mins
+⚔️ Dota 2                           🕘 1816 hrs 16 mins
 🎮 Age of Empires II: Definitive Edition 🕘 29 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
-🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 27 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
+🎮 Capcom Arcade Stadium            🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
