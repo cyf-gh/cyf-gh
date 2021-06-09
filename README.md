@@ -67,7 +67,7 @@ Markdown 🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1818 hrs 31 mins
-🎮 Age of Empires II: Definitive Edition 🕘 30 hrs 17 mins
+🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
 🎮 Capcom Arcade Stadium            🕘 0 hrs 4 mins
