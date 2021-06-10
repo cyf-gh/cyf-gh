@@ -68,8 +68,8 @@ Markdown 🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1819 hrs 1 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
-🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
+🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
