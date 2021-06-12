@@ -68,6 +68,7 @@ C#       🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1819 hrs 53 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
+🎮 Two Point Hospital               🕘 0 hrs 48 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 ```
