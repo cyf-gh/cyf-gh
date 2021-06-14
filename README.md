@@ -67,8 +67,8 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1822 hrs 19 mins
-🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 🎮 Two Point Hospital               🕘 7 hrs 3 mins
+🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 ```
