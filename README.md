@@ -68,7 +68,7 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1822 hrs 19 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
-🎮 Two Point Hospital               🕘 5 hrs 32 mins
+🎮 Two Point Hospital               🕘 6 hrs 3 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 ```
