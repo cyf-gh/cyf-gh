@@ -65,8 +65,8 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1822 hrs 19 mins
-🎮 Two Point Hospital               🕘 7 hrs 3 mins
+⚔️ Dota 2                           🕘 1822 hrs 21 mins
+🎮 Two Point Hospital               🕘 7 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 49 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
