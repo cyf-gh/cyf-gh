@@ -68,8 +68,8 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1822 hrs 19 mins
 🎮 Two Point Hospital               🕘 7 hrs 3 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 49 mins
 🎮 Fallout 4                        🕘 19 hrs 8 mins
-🔫 Counter-Strike: Global Offensive 🕘 125 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
