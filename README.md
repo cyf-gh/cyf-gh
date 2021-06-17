@@ -64,11 +64,11 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1822 hrs 21 mins
+⚔️ Dota 2                           🕘 1823 hrs 5 mins
 🎮 Two Point Hospital               🕘 7 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 49 mins
-🎮 Fallout 4                        🕘 19 hrs 8 mins
+💻 Wallpaper Engine                 🕘 5 hrs 47 mins
+🎮 DOOM                             🕘 9 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
