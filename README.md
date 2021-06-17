@@ -67,8 +67,8 @@ Text  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1823 hrs 5 mins
 🎮 Two Point Hospital               🕘 7 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
+🎮 DOOM                             🕘 10 hrs 10 mins
 💻 Wallpaper Engine                 🕘 5 hrs 47 mins
-🎮 DOOM                             🕘 9 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
