@@ -64,8 +64,8 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 1826 hrs 21 mins
 🎮 Two Point Hospital               🕘 7 hrs 7 mins
-🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 🎮 DOOM                             🕘 10 hrs 10 mins
+🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 22 mins
 💻 Wallpaper Engine                 🕘 5 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
