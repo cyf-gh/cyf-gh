@@ -64,7 +64,7 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 1828 hrs 19 mins
 🎮 Two Point Hospital               🕘 7 hrs 7 mins
-λ² Half-Life 2                      🕘 1 hrs 11 mins
+λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 DOOM                             🕘 10 hrs 10 mins
 💻 Wallpaper Engine                 🕘 5 hrs 47 mins
 ```
