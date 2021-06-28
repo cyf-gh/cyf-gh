@@ -66,7 +66,7 @@ Still Gathering Statistics...
 λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 DOOM                             🕘 10 hrs 10 mins
 💻 Wallpaper Engine                 🕘 5 hrs 47 mins
-🎮 Two Point Hospital               🕘 7 hrs 7 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 19 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
