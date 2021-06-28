@@ -62,7 +62,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1829 hrs 30 mins
+⚔️ Dota 2                           🕘 1830 hrs 1 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 DOOM                             🕘 10 hrs 10 mins
 💻 Wallpaper Engine                 🕘 5 hrs 47 mins
