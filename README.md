@@ -62,7 +62,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1832 hrs 1 mins
+⚔️ Dota 2                           🕘 1832 hrs 39 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 4 hrs 42 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 DOOM                             🕘 10 hrs 10 mins
