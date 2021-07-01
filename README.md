@@ -65,8 +65,8 @@ Still Gathering Statistics...
 ⚔️ Dota 2                           🕘 1832 hrs 39 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 4 hrs 42 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
-🎮 DOOM                             🕘 10 hrs 10 mins
 🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
+🎮 DOOM                             🕘 10 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
