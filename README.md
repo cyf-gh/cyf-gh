@@ -66,8 +66,8 @@ Markdown 🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1838 hrs 32 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 6 hrs 33 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
+🎮 Overcooked! 2                    🕘 17 hrs 13 mins
 🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
-🎮 Overcooked! 2                    🕘 16 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
