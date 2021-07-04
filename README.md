@@ -67,7 +67,7 @@ Markdown 🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 6 hrs 33 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
-🎮 Halo: The Master Chief Collection 🕘 0 hrs 9 mins
+🎮 Overcooked! 2                    🕘 16 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
