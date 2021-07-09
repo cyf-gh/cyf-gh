@@ -11,27 +11,34 @@
 <td valign="top" width="50%">
  
  ### Lod? 🤔 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
- 🌱 An amateur programmer keen on C/C++, C#, Golang and Internet &Cloud technology. Poor at English and Japanese. Maintaining some Minecraft servers ⛏. Struggling with f@cking life.
-
-* gitee: https://gitee.com/cyf-my/
-* gitbook: https://cyf-ms.gitbook.io/
+* 🚲 An amateur programmer 
+* 👓 Keen on C/C++, C#, Golang and Internet & Cloud technology.
+* ✒ Poor at English and Japanese. 
+* ⛏ Maintaining some Minecraft servers . 
+* 🤑 Struggling with f@cking life.
 
 [![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-Wear%20OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)](https://wearos.google.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) 
+
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat-square">
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://git-scm.com/)
 <img src="https://img.shields.io/badge/-golang-76E1FE.svg?logo=go&style=flat-square">
 
 </td>
 <td valign="top" width="50%">
 
-### Web Services
+ ### Web
+
+* gitee: https://gitee.com/cyf-my/
+* gitbook: https://cyf-ms.gitbook.io/
 ---
 * 👯 Site: https://www.cyf-cloud.cn | https://se.cyf-cloud.cn:8888
 * ⚡ Api: 
