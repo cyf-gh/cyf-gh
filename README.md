@@ -78,17 +78,5 @@ CSS      🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="cyf-gh" /></p>
 
-<img style="margin-left: auto;margin-right: auto;width: 8em" src="https://github.com/YouEclipse/YouEclipse/blob/master/go.gif" width="100">
-
-</td>
-<td>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true" alt="cyf-gh" /></p>
-</td>
-
-</tr>
-</table>
