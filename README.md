@@ -73,8 +73,8 @@ CSS      🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1838 hrs 32 mins
-🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 6 hrs 33 mins
+⚔️ Dota 2                           🕘 1838 hrs 38 mins
+🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 6 hrs 39 mins
 λ² Half-Life 2                      🕘 2 hrs 23 mins
 🎮 Overcooked! 2                    🕘 17 hrs 13 mins
 🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
