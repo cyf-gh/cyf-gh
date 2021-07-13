@@ -76,8 +76,8 @@ CSS      🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 7 hrs 43 mins
 ⚔️ Dota 2                           🕘 1839 hrs 14 mins
 🎮 Overcooked! 2                    🕘 17 hrs 13 mins
-🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
 🎮 Undertale                        🕘 0 hrs 1 mins
+🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
