@@ -76,8 +76,8 @@ Markdown 🕓 11m   ▍░░░░░░░░░░░░░░░░░░░
 ⚔️ Dota 2                           🕘 1839 hrs 14 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 7 hrs 43 mins
 🎮 Overcooked! 2                    🕘 17 hrs 13 mins
-🎮 Undertale                        🕘 0 hrs 1 mins
-🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
+🎮 NieR:Automata™                   🕘 24 hrs 38 mins
+🎮 NiGHTS into Dreams...            🕘 2 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
