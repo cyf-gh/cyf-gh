@@ -73,7 +73,7 @@ Markdown 🕓 11m   ▍░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 10 hrs 59 mins
+🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 12 hrs 29 mins
 ⚔️ Dota 2                           🕘 1839 hrs 14 mins
 🎮 NieR:Automata™                   🕘 26 hrs 3 mins
 🎮 Overcooked! 2                    🕘 17 hrs 13 mins
