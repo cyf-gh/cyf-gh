@@ -75,8 +75,8 @@ Markdown 🕓 11m   ▍░░░░░░░░░░░░░░░░░░░
 ```text
 ⚔️ Dota 2                           🕘 1839 hrs 14 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 7 hrs 43 mins
+🎮 NieR:Automata™                   🕘 26 hrs 3 mins
 🎮 Overcooked! 2                    🕘 17 hrs 13 mins
-🎮 NieR:Automata™                   🕘 25 hrs 9 mins
 🎮 NiGHTS into Dreams...            🕘 2 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
