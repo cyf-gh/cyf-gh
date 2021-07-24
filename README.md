@@ -74,7 +74,6 @@ Other 🕓 12m  █████▏░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1841 hrs 10 mins
 🎮 NieR:Automata™                   🕘 26 hrs 3 mins
 🎮 NiGHTS into Dreams...            🕘 2 hrs 48 mins
-🎮 Mega Man Legacy Collection       🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
