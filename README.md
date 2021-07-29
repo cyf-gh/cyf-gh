@@ -71,7 +71,6 @@ Other 🕓 8m  ████████▋░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1841 hrs 10 mins
-🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
