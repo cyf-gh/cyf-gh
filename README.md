@@ -72,7 +72,6 @@ Other 🕓 8m  ████████▋░░░░░░░░░░░░�
 ```text
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 2 mins
 ⚔️ Dota 2                           🕘 1841 hrs 10 mins
-🎮 NieR:Automata™                   🕘 26 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
