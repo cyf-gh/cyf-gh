@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-<table>
+<table style="width: 100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -72,7 +72,7 @@ Still Gathering Statistics...
 </tr>
 </table>
 
-<table>
+<table style="width: 100%">
 
 <tr>
 
