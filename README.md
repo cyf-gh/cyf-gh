@@ -66,13 +66,8 @@ Still Gathering Statistics...
 </td>
 <td valign="top" width="50%">
 
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
-```text
-⚔️ Dota 2                           🕘 1843 hrs 27 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="cyf-gh" /></p>
+
 </td>
 </tr>
 </table>
@@ -82,14 +77,21 @@ Still Gathering Statistics...
 <tr>
 
 <td valign="top" width="50%">
-
-<a href="https://psnprofiles.com/lod1919"><img src="https://card.psnprofiles.com/2/lod1919.png" border="0"></a>
+ 
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
+```text
+⚔️ Dota 2                           🕘 1843 hrs 27 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
  </td>
  
  <td valign="top" width="50%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="cyf-gh" /></p>
 
+  <a href="https://psnprofiles.com/lod1919"><img src="https://card.psnprofiles.com/2/lod1919.png" border="0"></a>
+ 
   </td>
 
 </tr>
