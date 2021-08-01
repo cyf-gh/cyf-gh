@@ -77,5 +77,21 @@ Still Gathering Statistics...
 </tr>
 </table>
 
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+<a href="https://psnprofiles.com/lod1919"><img src="https://card.psnprofiles.com/2/lod1919.png" border="0"></a>
+
+ </td>
+ 
+ <td valign="top" width="50%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="cyf-gh" /></p>
 
+  </td>
+
+</tr>
+
+</table>
