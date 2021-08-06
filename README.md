@@ -58,7 +58,11 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/31a37954e5aa6f6a38e2b249e472ed9f" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Go                       🕓 2h12m █████████▎░░░░ 66.6%
+Vue.js                   🕓 56m   ███▉░░░░░░░░░░ 28.3%
+JSON                     🕓 4m    ▎░░░░░░░░░░░░░  2.2%
+Nginx configuration file 🕓 3m    ▏░░░░░░░░░░░░░  1.6%
+JavaScript               🕓 1m    ░░░░░░░░░░░░░░  0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
