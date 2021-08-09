@@ -40,10 +40,10 @@
 * gitee: https://gitee.com/cyf-my/
 * gitbook: https://cyf-ms.gitbook.io/
 ---
-* 👯 Site: https://www.cyf-cloud.cn | https://se.cyf-cloud.cn:8888
+* 👯 Site: https://www.cyf-cloud.cn | https://se.cyf-cloud.cn
 * ⚡ Api: 
-  * https://se.cyf-cloud.cn:2346/v1
-  * https://se.cyf-cloud.cn:2346/v1x1 (in progress)
+  * https://se.cyf-cloud.cn/v1
+  * https://se.cyf-cloud.cn/v1x1 (in progress)
 
 * ⛏ Minecraft：https://www.cyf-cloud.cn/mc
 
