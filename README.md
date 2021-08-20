@@ -82,7 +82,7 @@ Other 🕓 1h40m ██████▌░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1849 hrs 39 mins
+⚔️ Dota 2                           🕘 1850 hrs 3 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 18 hrs 12 mins
 🎮 Mega Man Legacy Collection       🕘 1 hrs 5 mins
 🎮 Mega Man X Legacy Collection 2   🕘 0 hrs 4 mins
