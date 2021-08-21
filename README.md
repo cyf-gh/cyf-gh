@@ -83,9 +83,9 @@ Other 🕓 1h18m ███████▌░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1851 hrs 6 mins
+🎮 Ori and the Blind Forest         🕘 5 hrs 21 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 18 hrs 38 mins
 🎮 Mega Man Legacy Collection       🕘 1 hrs 17 mins
-🎮 Ori and the Blind Forest         🕘 4 hrs 24 mins
 🎮 Mega Man X Legacy Collection 2   🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
