@@ -42,8 +42,9 @@
 ---
 * 👯 Site: https://www.cyf-cloud.cn | https://se.cyf-cloud.cn
 * ⚡ Api: 
-  * https://se.cyf-cloud.cn/v1
-  * https://se.cyf-cloud.cn/v1x1 (in progress)
+  * https://se.cyf-cloud.cn/info/api/ref
+  * https://api.cyf-cloud.cn/v1
+  * https://api.cyf-cloud.cn/v1x1 (in progress)
 
 * ⛏ Minecraft：https://www.cyf-cloud.cn/mc
 
