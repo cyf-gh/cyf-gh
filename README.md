@@ -83,7 +83,7 @@ Other 🕓 20m  ████▊░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1859 hrs 18 mins
+⚔️ Dota 2                           🕘 1859 hrs 51 mins
 🎮 Ori and the Blind Forest         🕘 12 hrs 59 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 15 mins
 🎮 Fallout 4                        🕘 19 hrs 56 mins
