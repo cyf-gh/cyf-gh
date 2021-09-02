@@ -87,7 +87,7 @@ Other 🕓 20m  ████▊░░░░░░░░░░░░░░░░�
 🎮 Ori and the Blind Forest         🕘 12 hrs 59 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 15 mins
 🎮 Fallout 4                        🕘 19 hrs 56 mins
-🎮 Mega Man Legacy Collection       🕘 1 hrs 17 mins
+🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
