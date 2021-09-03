@@ -85,8 +85,8 @@ Other 🕓 20m  ████▊░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1861 hrs 56 mins
 🎮 Ori and the Blind Forest         🕘 12 hrs 59 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 15 mins
 🎮 Fallout 4                        🕘 19 hrs 56 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 15 mins
 🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
