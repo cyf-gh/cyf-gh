@@ -86,7 +86,6 @@ Still Gathering Statistics...
 🎮 Ori and the Blind Forest         🕘 12 hrs 59 mins
 🎮 Fallout 4                        🕘 19 hrs 56 mins
 🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
