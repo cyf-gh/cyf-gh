@@ -82,7 +82,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1866 hrs 42 mins
+⚔️ Dota 2                           🕘 1867 hrs 22 mins
 🎮 Ori and the Blind Forest         🕘 12 hrs 59 mins
 🎮 Fallout 4                        🕘 19 hrs 56 mins
 🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
