@@ -59,7 +59,8 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/31a37954e5aa6f6a38e2b249e472ed9f" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Vue.js     🕓 1h4m ████████████████████████████▏ 97.4%
+JavaScript 🕓 1m   ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
