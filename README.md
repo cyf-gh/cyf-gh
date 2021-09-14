@@ -85,8 +85,9 @@ JavaScript 🕓 1m    ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1868 hrs 0 mins
+⚔️ Dota 2                           🕘 1868 hrs 30 mins
 🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
+🎮 DOOM                             🕘 10 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
