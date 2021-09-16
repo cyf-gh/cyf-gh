@@ -87,7 +87,6 @@ JavaScript 🕓 1m    ▎░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1869 hrs 20 mins
 🎮 DOOM                             🕘 11 hrs 4 mins
-🎮 Space Channel 5: Part 2          🕘 2 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
