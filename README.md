@@ -85,6 +85,7 @@ Other 🕓 36m   ██████▏░░░░░░░░░░░░░░
 ```text
 ⚔️ Dota 2                           🕘 1872 hrs 28 mins
 🎮 DOOM                             🕘 11 hrs 4 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
