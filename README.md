@@ -83,7 +83,7 @@ Other 🕓 34m   ██████████▎░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1875 hrs 30 mins
+⚔️ Dota 2                           🕘 1876 hrs 0 mins
 🎮 DOOM                             🕘 11 hrs 4 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 31 mins
 ```
