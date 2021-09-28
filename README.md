@@ -85,7 +85,6 @@ C#    🕓 15m ████████▎░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 1881 hrs 5 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 31 mins
-🎮 DOOM                             🕘 11 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
