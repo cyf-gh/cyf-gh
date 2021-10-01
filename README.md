@@ -86,7 +86,7 @@ Git Config 🕓 3m   ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1883 hrs 55 mins
+⚔️ Dota 2                           🕘 1884 hrs 2 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
