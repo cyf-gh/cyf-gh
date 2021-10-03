@@ -86,7 +86,7 @@ CMake       🕓 5m     ▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1887 hrs 24 mins
+⚔️ Dota 2                           🕘 1888 hrs 12 mins
 🎮 Undertale                        🕘 0 hrs 23 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 31 mins
 ```
