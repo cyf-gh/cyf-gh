@@ -87,7 +87,7 @@ Other 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 ⚔️ Dota 2                           🕘 1892 hrs 4 mins
 🎮 Undertale                        🕘 0 hrs 54 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 15 mins
-🎮 Fallout 4                        🕘 20 hrs 0 mins
+🎮 Fallout 4                        🕘 20 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
