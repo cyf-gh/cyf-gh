@@ -82,7 +82,7 @@ C++ 🕓 5h8m ██████████████████████
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1898 hrs 53 mins
+⚔️ Dota 2                           🕘 1899 hrs 23 mins
 🎮 Undertale                        🕘 0 hrs 54 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 15 mins
 🎮 Fallout 4                        🕘 20 hrs 2 mins
