@@ -85,7 +85,7 @@ Markdown 🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1901 hrs 38 mins
+⚔️ Dota 2                           🕘 1902 hrs 38 mins
 🎮 Fallout 4                        🕘 20 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
