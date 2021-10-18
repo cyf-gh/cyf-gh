@@ -48,6 +48,8 @@
 
 * ⛏ Minecraft：https://www.cyf-cloud.cn/mc
 
+* HGEngine API: https://hg.cyf-cloud.cn
+
 </td>
 </tr>
 </table>
