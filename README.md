@@ -88,7 +88,7 @@ Markdown 🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1905 hrs 47 mins
-🎮 THE IDOLM@STER STARLIT SEASON    🕘 7 hrs 8 mins
+🎮 THE IDOLM@STER STARLIT SEASON    🕘 7 hrs 37 mins
 🎮 Fallout 4                        🕘 20 hrs 2 mins
 🎮 Ori and the Will of the Wisps    🕘 0 hrs 4 mins
 ```
