@@ -85,7 +85,7 @@ Other 🕓 1h24m █████▏░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1966 hrs 14 mins
+⚔️ Dota 2                           🕘 1967 hrs 46 mins
 🎮 DOOM                             🕘 12 hrs 31 mins
 🎮 THE IDOLM@STER STARLIT SEASON    🕘 14 hrs 27 mins
 ```
