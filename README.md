@@ -85,7 +85,7 @@ Other 🕓 25m ██████████▊░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1981 hrs 8 mins
+⚔️ Dota 2                           🕘 1981 hrs 38 mins
 🎮 DOOM                             🕘 12 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
