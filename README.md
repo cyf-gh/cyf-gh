@@ -15,10 +15,10 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
 * 🚲 An amateur programmer 
-* 👓 C/C++ | C# | Golang | Internet & Cloud technology | Game Engine.
+* 👓 C/C++ | C# | Golang | Internet & Cloud technology | Game Engine
 * ✒ English | Japanese
 * ⛏ Minecraft servers
-* 🤑 Fucking the life up
+* 🤑 Wanna a programming job
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
