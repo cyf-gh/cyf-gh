@@ -10,15 +10,15 @@
 <tr>
 <td valign="top" width="50%">
  
- ### Lod? 🤔 
+ ### Lod 🤔 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
 * 🚲 An amateur programmer 
-* 👓 Keen on C/C++, C#, Golang and Internet & Cloud technology.
-* ✒ Poor at English and Japanese. 
-* ⛏ Maintaining some Minecraft servers . 
-* 🤑 Struggling with f@cking life.
+* 👓 C/C++ | C# | Golang | Internet & Cloud technology | Game Engine.
+* ✒ English | Japanese
+* ⛏ Minecraft servers
+* 🤑 Fucking the life up
 
 [![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/-Wear%20OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)](https://wearos.google.com/)
@@ -58,20 +58,12 @@
 <tr>
 <td valign="top" width="50%">
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/31a37954e5aa6f6a38e2b249e472ed9f" target="_blank">📊 Weekly development breakdown</a>
-```text
-C++   🕓 5h49m ████████████████████████████████▋ 99.1%
-Other 🕓 3m    ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
-C     🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+[![cyf-gh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YiFan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td valign="top" width="50%">
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="cyf-gh" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green" alt="cyf-gh" /></p>
 
 </td>
 </tr>
@@ -103,3 +95,6 @@ C     🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 </tr>
 
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
