@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 1991 hrs 7 mins
 🎮 Cuphead                          🕘 0 hrs 46 mins
+🎮 Muv-Luv Alternative              🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
