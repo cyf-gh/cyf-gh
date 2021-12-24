@@ -20,17 +20,9 @@
 * ⛏ Minecraft servers
 * 🤑 Fucking the life up
 
-[![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/-Wear%20OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)](https://wearos.google.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) 
 
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat-square">
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://git-scm.com/)
-<img src="https://img.shields.io/badge/-golang-76E1FE.svg?logo=go&style=flat-square">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </td>
 <td valign="top" width="50%">
@@ -95,6 +87,4 @@
 </tr>
 
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
