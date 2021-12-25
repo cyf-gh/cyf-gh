@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 1991 hrs 18 mins
-🎮 Cuphead                          🕘 0 hrs 46 mins
-🎮 Muv-Luv Alternative              🕘 0 hrs 1 mins
+🎮 Cuphead                          🕘 1 hrs 51 mins
+🎮 Muv-Luv Alternative              🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
