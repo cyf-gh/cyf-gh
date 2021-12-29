@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 1998 hrs 9 mins
+⚔️ Dota 2                           🕘 1998 hrs 54 mins
 🎮 Cuphead                          🕘 1 hrs 51 mins
 🎮 Muv-Luv Alternative              🕘 0 hrs 10 mins
 ```
