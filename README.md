@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2004 hrs 31 mins
 🎮 Cuphead                          🕘 1 hrs 51 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 51 mins
 🎮 Muv-Luv Alternative              🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
