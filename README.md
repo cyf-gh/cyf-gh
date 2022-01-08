@@ -71,10 +71,9 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2012 hrs 52 mins
-🎮 Cuphead                          🕘 1 hrs 51 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 19 hrs 51 mins
-🎮 Muv-Luv Alternative              🕘 0 hrs 10 mins
 🎮 Mega Man Legacy Collection       🕘 1 hrs 22 mins
+🎮 Overcooked! 2                    🕘 17 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
