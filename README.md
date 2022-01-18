@@ -72,8 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2015 hrs 42 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 20 hrs 16 mins
-🎮 Mega Man Legacy Collection       🕘 1 hrs 22 mins
-🎮 Overcooked! 2                    🕘 17 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
