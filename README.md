@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2031 hrs 26 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 3 hrs 9 mins
-🎮 Sonic Mania                      🕘 10 hrs 1 mins
+🎮 Sonic Mania                      🕘 10 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
