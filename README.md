@@ -70,8 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2033 hrs 53 mins
+⚔️ Dota 2                           🕘 2034 hrs 4 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 4 hrs 41 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 20 hrs 8 mins
 🎮 Sonic Mania                      🕘 10 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
