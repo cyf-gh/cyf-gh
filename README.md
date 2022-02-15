@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2047 hrs 11 mins
+⚔️ Dota 2                           🕘 2047 hrs 38 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 9 hrs 14 mins
 🎮 Borderlands 3                    🕘 0 hrs 45 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 20 hrs 8 mins
