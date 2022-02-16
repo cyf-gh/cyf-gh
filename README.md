@@ -74,7 +74,6 @@
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 9 hrs 14 mins
 🎮 Borderlands 3                    🕘 0 hrs 45 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 20 hrs 8 mins
-🎮 Sonic Mania                      🕘 10 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
