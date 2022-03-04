@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2068 hrs 47 mins
+⚔️ Dota 2                           🕘 2068 hrs 54 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 13 hrs 34 mins
 🎮 Angry Video Game Nerd I & II Deluxe 🕘 0 hrs 30 mins
 ```
