@@ -70,8 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2098 hrs 42 mins
+⚔️ Dota 2                           🕘 2098 hrs 43 mins
 🎮 Mirror's Edge™ Catalyst          🕘 0 hrs 47 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 20 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
