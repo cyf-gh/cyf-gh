@@ -70,9 +70,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2098 hrs 43 mins
+⚔️ Dota 2                           🕘 2099 hrs 11 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 2 mins
 🎮 Mirror's Edge™ Catalyst          🕘 0 hrs 47 mins
+🎮 Space Channel 5: Part 2          🕘 2 hrs 20 mins
+🎮 The Binding of Isaac             🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
