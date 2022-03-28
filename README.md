@@ -73,8 +73,8 @@
 ⚔️ Dota 2                           🕘 2109 hrs 7 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 23 mins
 🎮 Mirror's Edge™ Catalyst          🕘 0 hrs 47 mins
+🎮 OBS Studio                       🕘 0 hrs 39 mins
 🎮 DOOM                             🕘 13 hrs 8 mins
-🎮 OBS Studio                       🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
