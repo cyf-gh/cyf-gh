@@ -74,7 +74,7 @@
 🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 23 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
 🎮 DOOM                             🕘 13 hrs 8 mins
-🎮 Mirror's Edge™ Catalyst          🕘 0 hrs 47 mins
+🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 13 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
