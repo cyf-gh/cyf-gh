@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2121 hrs 29 mins
+⚔️ Dota 2                           🕘 2122 hrs 11 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
 🎮 DOOM                             🕘 13 hrs 8 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 23 mins
