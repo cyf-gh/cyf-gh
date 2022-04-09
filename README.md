@@ -73,8 +73,8 @@
 ⚔️ Dota 2                           🕘 2124 hrs 27 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
 🎮 DOOM                             🕘 13 hrs 8 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 23 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 13 hrs 51 mins
+🎮 The Binding of Isaac             🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
