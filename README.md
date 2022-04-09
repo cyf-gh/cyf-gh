@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2124 hrs 57 mins
+⚔️ Dota 2                           🕘 2125 hrs 33 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
 🎮 DOOM                             🕘 13 hrs 8 mins
 🎮 WARRIORS OROCHI 4 - 無双OROCHI３ 🕘 13 hrs 51 mins
