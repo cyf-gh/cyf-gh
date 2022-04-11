@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2127 hrs 46 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
-🎮 DOOM                             🕘 13 hrs 8 mins
 🎮 It Takes Two                     🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
