@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2127 hrs 46 mins
+⚔️ Dota 2                           🕘 2128 hrs 16 mins
 🎮 OBS Studio                       🕘 1 hrs 1 mins
 🎮 It Takes Two                     🕘 0 hrs 5 mins
 ```
