@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2162 hrs 37 mins
+⚔️ Dota 2                           🕘 2163 hrs 21 mins
 🎮 Celeste                          🕘 0 hrs 6 mins
 🎮 NiGHTS into Dreams...            🕘 2 hrs 48 mins
 ```
