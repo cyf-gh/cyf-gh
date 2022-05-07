@@ -73,7 +73,6 @@
 ⚔️ Dota 2                           🕘 2178 hrs 22 mins
 🎮 Overcooked! 2                    🕘 17 hrs 36 mins
 🎮 Celeste                          🕘 0 hrs 6 mins
-🎮 NiGHTS into Dreams...            🕘 2 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
