@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2178 hrs 22 mins
-🎮 WARRIORS OROCHI 4                🕘 16 hrs 44 mins
+🎮 WARRIORS OROCHI 4                🕘 17 hrs 45 mins
 🎮 Overcooked! 2                    🕘 17 hrs 36 mins
 🎮 Celeste                          🕘 0 hrs 6 mins
 ```
