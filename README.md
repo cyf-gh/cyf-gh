@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2178 hrs 22 mins
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 13 mins
-🎮 Overcooked! 2                    🕘 17 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
