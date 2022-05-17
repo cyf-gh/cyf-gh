@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2178 hrs 22 mins
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 13 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 20 hrs 47 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
