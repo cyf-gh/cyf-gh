@@ -73,7 +73,6 @@
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 13 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 13 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 8 mins
-⚔️ Dota 2                           🕘 2178 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
