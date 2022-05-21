@@ -72,6 +72,7 @@
 ```text
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 13 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 13 mins
+💻 Wallpaper Engine                 🕘 7 hrs 38 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
