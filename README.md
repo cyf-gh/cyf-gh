@@ -71,7 +71,6 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 13 mins
-🎮 WARRIORS OROCHI 4                🕘 18 hrs 13 mins
 💻 Wallpaper Engine                 🕘 7 hrs 38 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 8 mins
 ```
