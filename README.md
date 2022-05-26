@@ -72,6 +72,7 @@
 ```text
 🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 13 mins
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 26 mins
+🎮 DOOM                             🕘 13 hrs 15 mins
 💻 Wallpaper Engine                 🕘 7 hrs 38 mins
 🎮 The Elder Scrolls V: Skyrim Special Edition 🕘 13 hrs 8 mins
 ```
