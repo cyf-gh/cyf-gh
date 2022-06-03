@@ -73,6 +73,7 @@
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 51 mins
 🎮 DOOM                             🕘 13 hrs 15 mins
 💻 Wallpaper Engine                 🕘 7 hrs 38 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
