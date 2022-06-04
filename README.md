@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 WARRIORS OROCHI 4                🕘 18 hrs 51 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 58 mins
 🎮 DOOM                             🕘 13 hrs 15 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 21 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
