@@ -72,6 +72,7 @@
 ```text
 🎮 THE IDOLM@STER STARLIT SEASON    🕘 15 hrs 5 mins
 🎮 DOOM                             🕘 13 hrs 35 mins
+🎮 Fallout 4                        🕘 20 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
