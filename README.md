@@ -72,6 +72,7 @@
 ```text
 🎮 Fallout 4                        🕘 20 hrs 14 mins
 🎮 THE IDOLM@STER STARLIT SEASON    🕘 15 hrs 5 mins
+🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
