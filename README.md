@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2180 hrs 24 mins
 🎮 Angry Video Game Nerd I & II Deluxe 🕘 0 hrs 45 mins
-🎮 Fallout 4                        🕘 20 hrs 14 mins
 🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
