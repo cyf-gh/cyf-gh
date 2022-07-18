@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2185 hrs 54 mins
 🎮 Angry Video Game Nerd I & II Deluxe 🕘 0 hrs 45 mins
-🎮 Puyo Puyo™ Tetris® 2             🕘 21 hrs 18 mins
 🎮 THE IDOLM@STER STARLIT SEASON    🕘 15 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
