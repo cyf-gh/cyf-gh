@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2218 hrs 45 mins
-🎮 Satisfactory                     🕘 2 hrs 18 mins
-🎮 Satisfactory Dedicated Server    🕘 1 hrs 50 mins
+🎮 Satisfactory Dedicated Server    🕘 3 hrs 21 mins
+🎮 Satisfactory                     🕘 3 hrs 18 mins
 💻 Wallpaper Engine                 🕘 8 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
