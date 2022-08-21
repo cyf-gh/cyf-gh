@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2216 hrs 54 mins
 🎮 Valheim                          🕘 9 hrs 10 mins
+💻 Wallpaper Engine                 🕘 7 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
