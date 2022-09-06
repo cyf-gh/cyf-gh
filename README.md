@@ -70,9 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Satisfactory Dedicated Server    🕘 37 hrs 10 mins
+🎮 Satisfactory Dedicated Server    🕘 37 hrs 40 mins
 🎮 Satisfactory                     🕘 24 hrs 53 mins
-⚔️ Dota 2                           🕘 2234 hrs 15 mins
+⚔️ Dota 2                           🕘 2234 hrs 44 mins
 💻 Wallpaper Engine                 🕘 9 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
