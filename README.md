@@ -72,8 +72,6 @@
 ```text
 🎮 Satisfactory Dedicated Server    🕘 93 hrs 11 mins
 ⚔️ Dota 2                           🕘 2254 hrs 11 mins
-🎮 Satisfactory                     🕘 35 hrs 9 mins
-💻 Wallpaper Engine                 🕘 14 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
