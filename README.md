@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2328 hrs 10 mins
 🎮 Satisfactory                     🕘 35 hrs 12 mins
+💻 Wallpaper Engine                 🕘 15 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
