@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2346 hrs 0 mins
-💻 Wallpaper Engine                 🕘 17 hrs 21 mins
+⚔️ Dota 2                           🕘 2346 hrs 18 mins
+💻 Wallpaper Engine                 🕘 18 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
