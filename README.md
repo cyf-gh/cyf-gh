@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2427 hrs 50 mins
+🎮 Overcooked! 2                    🕘 22 hrs 25 mins
 🎮 Divinity: Original Sin 2         🕘 4 hrs 9 mins
-🎮 Overcooked! 2                    🕘 21 hrs 24 mins
 💻 Wallpaper Engine                 🕘 20 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
