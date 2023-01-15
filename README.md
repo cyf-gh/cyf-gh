@@ -73,7 +73,6 @@
 ⚔️ Dota 2                           🕘 2428 hrs 15 mins
 🎮 Overcooked! 2                    🕘 23 hrs 1 mins
 🎮 Divinity: Original Sin 2         🕘 4 hrs 9 mins
-💻 Wallpaper Engine                 🕘 20 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
