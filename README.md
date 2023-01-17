@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2431 hrs 2 mins
 🎮 Overcooked! 2                    🕘 23 hrs 1 mins
-🎮 KartRider: Drift                 🕘 1 hrs 53 mins
+🎮 KartRider: Drift                 🕘 2 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
