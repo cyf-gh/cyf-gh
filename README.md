@@ -73,7 +73,7 @@
 ⚔️ Dota 2                           🕘 2440 hrs 5 mins
 🎮 Overcooked! 2                    🕘 23 hrs 1 mins
 🎮 KartRider: Drift                 🕘 2 hrs 51 mins
-🎮 It Takes Two                     🕘 1 hrs 3 mins
+🎮 It Takes Two                     🕘 2 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
