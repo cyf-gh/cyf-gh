@@ -74,7 +74,7 @@
 🎮 Overcooked! 2                    🕘 23 hrs 1 mins
 🎮 KartRider: Drift                 🕘 2 hrs 51 mins
 🎮 It Takes Two                     🕘 2 hrs 14 mins
-🎮 RetroArch                        🕘 0 hrs 7 mins
+🎮 RetroArch                        🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
