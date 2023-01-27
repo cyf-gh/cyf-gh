@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2448 hrs 53 mins
-🎮 Overcooked! 2                    🕘 23 hrs 1 mins
 🎮 KartRider: Drift                 🕘 2 hrs 51 mins
+🎮 Overcooked! 2                    🕘 23 hrs 1 mins
 🎮 RetroArch                        🕘 2 hrs 17 mins
 🎮 It Takes Two                     🕘 2 hrs 14 mins
 ```
