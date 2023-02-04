@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2451 hrs 13 mins
 🎮 RetroArch                        🕘 2 hrs 17 mins
-🎮 It Takes Two                     🕘 2 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
