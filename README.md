@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 147 hrs 57 mins
-⚔️ Dota 2                           🕘 2526 hrs 44 mins
+⚔️ Dota 2                           🕘 2527 hrs 15 mins
 💻 Wallpaper Engine                 🕘 21 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
