@@ -72,7 +72,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 154 hrs 44 mins
 ⚔️ Dota 2                           🕘 2529 hrs 53 mins
-💻 Wallpaper Engine                 🕘 21 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
