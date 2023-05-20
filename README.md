@@ -72,6 +72,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 213 hrs 47 mins
 ⚔️ Dota 2                           🕘 2545 hrs 41 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 22 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
