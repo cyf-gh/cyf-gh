@@ -72,7 +72,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 254 hrs 24 mins
 ⚔️ Dota 2                           🕘 2547 hrs 11 mins
-🎮 DOOM                             🕘 13 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
