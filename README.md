@@ -70,9 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 253 hrs 51 mins
+🔫 Counter-Strike: Global Offensive 🕘 254 hrs 24 mins
 ⚔️ Dota 2                           🕘 2547 hrs 11 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 22 hrs 56 mins
 🎮 DOOM                             🕘 13 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
