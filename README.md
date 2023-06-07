@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 260 hrs 2 mins
-🎮 Satisfactory                     🕘 35 hrs 44 mins
-🎮 Satisfactory Dedicated Server    🕘 93 hrs 41 mins
+🎮 Satisfactory Dedicated Server    🕘 94 hrs 2 mins
+🎮 Satisfactory                     🕘 35 hrs 58 mins
 λ² Half-Life 2                      🕘 2 hrs 53 mins
 💻 Wallpaper Engine                 🕘 21 hrs 49 mins
 ```
