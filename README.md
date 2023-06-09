@@ -14,10 +14,10 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
 
-* 🚲 An amateur programmer 
+* 🚲 Amateur programmer 
 * 👓 C/C++ | C# | Golang | Internet & Cloud technology | Game Engine
 * ✒ English | Japanese
-* ⛏ Minecraft servers
+* ⛏ ~~Minecraft servers~~
 * 🤑 Wanna a programming job
 
 
