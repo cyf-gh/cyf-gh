@@ -74,7 +74,7 @@
 λ² Half-Life 2                      🕘 4 hrs 5 mins
 🎮 Satisfactory Dedicated Server    🕘 94 hrs 2 mins
 🎮 Satisfactory                     🕘 35 hrs 58 mins
-💻 Wallpaper Engine                 🕘 21 hrs 49 mins
+⚔️ Dota 2                           🕘 2547 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
