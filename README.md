@@ -70,9 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 264 hrs 1 mins
+🔫 Counter-Strike: Global Offensive 🕘 265 hrs 21 mins
 λ² Half-Life 2                      🕘 5 hrs 35 mins
-⚔️ Dota 2                           🕘 2550 hrs 5 mins
+⚔️ Dota 2                           🕘 2550 hrs 7 mins
 🎮 Satisfactory Dedicated Server    🕘 94 hrs 2 mins
 🎮 Satisfactory                     🕘 35 hrs 58 mins
 ```
