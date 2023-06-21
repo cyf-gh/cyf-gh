@@ -73,8 +73,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 273 hrs 10 mins
 ⚔️ Dota 2                           🕘 2554 hrs 8 mins
 λ² Half-Life 2                      🕘 5 hrs 35 mins
+🎮 SimCity 4 Deluxe                 🕘 0 hrs 13 mins
 🎮 Satisfactory Dedicated Server    🕘 94 hrs 2 mins
-🎮 Satisfactory                     🕘 35 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
