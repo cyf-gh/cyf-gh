@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 275 hrs 36 mins
-⚔️ Dota 2                           🕘 2554 hrs 8 mins
+⚔️ Dota 2                           🕘 2554 hrs 35 mins
 λ² Half-Life 2                      🕘 5 hrs 35 mins
 🎮 SimCity 4 Deluxe                 🕘 0 hrs 13 mins
 ```
