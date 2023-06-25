@@ -72,7 +72,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 277 hrs 18 mins
 ⚔️ Dota 2                           🕘 2556 hrs 11 mins
-λ² Half-Life 2                      🕘 5 hrs 35 mins
 🎮 SimCity 4 Deluxe                 🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
