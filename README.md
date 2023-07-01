@@ -72,6 +72,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 282 hrs 16 mins
 ⚔️ Dota 2                           🕘 2558 hrs 40 mins
+🎮 SteamVR Performance Test         🕘 0 hrs 21 mins
 🎮 SimCity 4 Deluxe                 🕘 0 hrs 13 mins
 🎮 Half-Life: Alyx                  🕘 0 hrs 1 mins
 ```
