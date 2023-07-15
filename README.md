@@ -70,9 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 291 hrs 36 mins
+🔫 Counter-Strike: Global Offensive 🕘 292 hrs 1 mins
 🎮 SteamVR                          🕘 8 hrs 43 mins
-⚔️ Dota 2                           🕘 2566 hrs 27 mins
+⚔️ Dota 2                           🕘 2566 hrs 57 mins
 🎮 VRChat                           🕘 5 hrs 14 mins
 🎮 Half-Life: Alyx                  🕘 3 hrs 38 mins
 ```
