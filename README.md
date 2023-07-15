@@ -72,7 +72,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 291 hrs 36 mins
 🎮 SteamVR                          🕘 7 hrs 14 mins
-⚔️ Dota 2                           🕘 2564 hrs 43 mins
+⚔️ Dota 2                           🕘 2565 hrs 13 mins
 🎮 VRChat                           🕘 5 hrs 14 mins
 🎮 Half-Life: Alyx                  🕘 3 hrs 38 mins
 ```
