@@ -72,8 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2578 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 298 hrs 7 mins
-🎮 SteamVR                          🕘 8 hrs 43 mins
-🎮 Google Earth VR                  🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
