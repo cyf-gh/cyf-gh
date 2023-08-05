@@ -73,8 +73,8 @@
 ⚔️ Dota 2                           🕘 2583 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 303 hrs 18 mins
 🎮 SteamVR                          🕘 13 hrs 49 mins
+🎮 Age of Empires III: Definitive Edition 🕘 1 hrs 27 mins
 🎮 Half-Life: Alyx                  🕘 4 hrs 20 mins
-🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
