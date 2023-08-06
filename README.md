@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2583 hrs 48 mins
-🔫 Counter-Strike: Global Offensive 🕘 303 hrs 49 mins
+⚔️ Dota 2                           🕘 2584 hrs 18 mins
+🔫 Counter-Strike: Global Offensive 🕘 304 hrs 5 mins
 🎮 SteamVR                          🕘 13 hrs 49 mins
 🎮 Age of Empires III: Definitive Edition 🕘 1 hrs 27 mins
 🎮 Half-Life: Alyx                  🕘 4 hrs 20 mins
