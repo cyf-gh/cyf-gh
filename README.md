@@ -73,7 +73,6 @@
 ⚔️ Dota 2                           🕘 2589 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 304 hrs 52 mins
 🎮 Age of Empires III: Definitive Edition 🕘 2 hrs 30 mins
-🎮 SteamVR                          🕘 13 hrs 49 mins
 🎮 SimCity 4 Deluxe                 🕘 0 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
