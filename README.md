@@ -74,7 +74,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 304 hrs 52 mins
 🎮 SteamVR                          🕘 13 hrs 49 mins
 🎮 Age of Empires III: Definitive Edition 🕘 2 hrs 30 mins
-🎮 Half-Life: Alyx                  🕘 4 hrs 20 mins
+🎮 Google Earth VR                  🕘 1 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
