@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2589 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 307 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 308 hrs 12 mins
 🎮 Age of Empires III: Definitive Edition 🕘 2 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
