@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2609 hrs 16 mins
 🔫 Counter-Strike: Global Offensive 🕘 318 hrs 9 mins
-🎮 Age of Empires III: Definitive Edition 🕘 3 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
