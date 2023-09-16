@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2623 hrs 57 mins
 🔫 Counter-Strike: Global Offensive 🕘 324 hrs 57 mins
+🎮 Expendable                       🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
