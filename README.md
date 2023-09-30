@@ -74,7 +74,6 @@
 🔫 Counter-Strike 2                 🕘 334 hrs 6 mins
 🎮 Age of Empires III: Definitive Edition 🕘 5 hrs 37 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 50 mins
-🎮 Expendable                       🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
