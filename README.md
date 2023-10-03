@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2639 hrs 10 mins
-🔫 Counter-Strike 2                 🕘 338 hrs 51 mins
+🔫 Counter-Strike 2                 🕘 339 hrs 2 mins
 🎮 Age of Empires III: Definitive Edition 🕘 7 hrs 35 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 50 mins
 ```
