@@ -74,6 +74,7 @@
 🔫 Counter-Strike 2                 🕘 340 hrs 22 mins
 🎮 Age of Empires III: Definitive Edition 🕘 9 hrs 3 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 50 mins
+💻 Wallpaper Engine                 🕘 21 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
