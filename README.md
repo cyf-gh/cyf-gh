@@ -73,7 +73,7 @@
 ⚔️ Dota 2                           🕘 2644 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 340 hrs 22 mins
 🎮 Age of Empires III: Definitive Edition 🕘 9 hrs 3 mins
-💻 Wallpaper Engine                 🕘 22 hrs 19 mins
+💻 Wallpaper Engine                 🕘 23 hrs 20 mins
 🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
