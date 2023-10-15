@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2650 hrs 11 mins
-🔫 Counter-Strike 2                 🕘 340 hrs 22 mins
+⚔️ Dota 2                           🕘 2650 hrs 16 mins
+🔫 Counter-Strike 2                 🕘 340 hrs 53 mins
 🎮 SteamVR                          🕘 16 hrs 6 mins
 🎮 Google Earth VR                  🕘 3 hrs 1 mins
 💻 Wallpaper Engine                 🕘 23 hrs 33 mins
