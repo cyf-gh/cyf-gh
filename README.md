@@ -72,9 +72,9 @@
 ```text
 ⚔️ Dota 2                           🕘 2650 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 340 hrs 22 mins
+🎮 SteamVR                          🕘 16 hrs 6 mins
+🎮 Google Earth VR                  🕘 3 hrs 1 mins
 💻 Wallpaper Engine                 🕘 23 hrs 33 mins
-🎮 SteamVR                          🕘 15 hrs 23 mins
-🎮 Age of Empires III: Definitive Edition 🕘 9 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
