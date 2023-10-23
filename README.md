@@ -74,7 +74,7 @@
 🎮 SteamVR                          🕘 16 hrs 6 mins
 🎮 Google Earth VR                  🕘 3 hrs 1 mins
 💻 Wallpaper Engine                 🕘 23 hrs 34 mins
-🔫 Counter-Strike 2                 🕘 341 hrs 50 mins
+🔫 Counter-Strike 2                 🕘 341 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
