@@ -72,8 +72,8 @@
 ```text
 ⚔️ Dota 2                           🕘 2658 hrs 22 mins
 💻 Wallpaper Engine                 🕘 24 hrs 36 mins
-🔫 Counter-Strike 2                 🕘 342 hrs 33 mins
 🎮 SteamVR                          🕘 16 hrs 6 mins
+🔫 Counter-Strike 2                 🕘 342 hrs 33 mins
 🎮 Google Earth VR                  🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
