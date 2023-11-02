@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2665 hrs 48 mins
-🔫 Counter-Strike 2                 🕘 345 hrs 18 mins
+🔫 Counter-Strike 2                 🕘 346 hrs 14 mins
 💻 Wallpaper Engine                 🕘 24 hrs 36 mins
 🎮 Satisfactory                     🕘 36 hrs 5 mins
 🎮 Satisfactory Dedicated Server    🕘 94 hrs 7 mins
