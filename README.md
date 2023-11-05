@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2668 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 346 hrs 54 mins
+🎮 My Time at Sandrock              🕘 1 hrs 6 mins
 💻 Wallpaper Engine                 🕘 24 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
