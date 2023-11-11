@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2671 hrs 25 mins
 🔫 Counter-Strike 2                 🕘 351 hrs 13 mins
-🎮 My Time at Sandrock              🕘 3 hrs 11 mins
+🎮 My Time at Sandrock              🕘 3 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
