@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2677 hrs 51 mins
-🔫 Counter-Strike 2                 🕘 352 hrs 52 mins
+⚔️ Dota 2                           🕘 2678 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 353 hrs 38 mins
 🎮 My Time at Sandrock              🕘 3 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
