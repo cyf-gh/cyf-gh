@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 360 hrs 19 mins
-⚔️ Dota 2                           🕘 2680 hrs 25 mins
+⚔️ Dota 2                           🕘 2681 hrs 17 mins
 💻 Wallpaper Engine                 🕘 27 hrs 22 mins
 🎮 My Time at Sandrock              🕘 3 hrs 40 mins
 ```
