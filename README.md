@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 365 hrs 1 mins
+🔫 Counter-Strike 2                 🕘 366 hrs 2 mins
 ⚔️ Dota 2                           🕘 2687 hrs 31 mins
 💻 Wallpaper Engine                 🕘 27 hrs 22 mins
 🎮 Tabletop Simulator               🕘 0 hrs 5 mins
