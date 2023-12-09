@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2689 hrs 33 mins
-🔫 Counter-Strike 2                 🕘 366 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 367 hrs 40 mins
 💻 Wallpaper Engine                 🕘 27 hrs 22 mins
 🎮 Tabletop Simulator               🕘 0 hrs 5 mins
 🎮 Craft The World                  🕘 1 hrs 9 mins
