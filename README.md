@@ -74,6 +74,7 @@
 🔫 Counter-Strike 2                 🕘 366 hrs 48 mins
 💻 Wallpaper Engine                 🕘 27 hrs 22 mins
 🎮 Tabletop Simulator               🕘 0 hrs 5 mins
+🎮 Craft The World                  🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
