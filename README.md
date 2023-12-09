@@ -72,9 +72,9 @@
 ```text
 ⚔️ Dota 2                           🕘 2689 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 367 hrs 40 mins
+🎮 SteamVR                          🕘 16 hrs 21 mins
+🎮 Assetto Corsa                    🕘 0 hrs 35 mins
 💻 Wallpaper Engine                 🕘 27 hrs 22 mins
-🎮 Tabletop Simulator               🕘 0 hrs 5 mins
-🎮 Craft The World                  🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
