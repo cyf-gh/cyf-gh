@@ -74,7 +74,7 @@
 🔫 Counter-Strike 2                 🕘 367 hrs 40 mins
 🎮 SteamVR                          🕘 17 hrs 8 mins
 🎮 Assetto Corsa                    🕘 0 hrs 35 mins
-💻 Wallpaper Engine                 🕘 27 hrs 22 mins
+🎮 Tabletop Simulator               🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
