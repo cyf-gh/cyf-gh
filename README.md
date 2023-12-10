@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2689 hrs 34 mins
+⚔️ Dota 2                           🕘 2690 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 367 hrs 40 mins
 🎮 SteamVR                          🕘 17 hrs 8 mins
 🎮 Assetto Corsa                    🕘 0 hrs 35 mins
