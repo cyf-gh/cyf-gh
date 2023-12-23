@@ -73,7 +73,6 @@
 ⚔️ Dota 2                           🕘 2706 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 373 hrs 17 mins
 🎮 SteamVR                          🕘 17 hrs 8 mins
-🎮 Assetto Corsa                    🕘 0 hrs 35 mins
 🎮 Tabletop Simulator               🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
