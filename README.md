@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2713 hrs 4 mins
 🔫 Counter-Strike 2                 🕘 376 hrs 23 mins
-🎮 Fallout: New Vegas               🕘 0 hrs 30 mins
+🎮 Fallout: New Vegas               🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
