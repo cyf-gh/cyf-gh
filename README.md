@@ -70,9 +70,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2715 hrs 41 mins
+⚔️ Dota 2                           🕘 2715 hrs 44 mins
 🎮 Craft The World                  🕘 10 hrs 14 mins
-🎮 Fallout: New Vegas               🕘 4 hrs 52 mins
+🎮 Fallout: New Vegas               🕘 5 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 376 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
