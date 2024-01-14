@@ -74,7 +74,7 @@
 🎮 Fallout: New Vegas               🕘 11 hrs 34 mins
 🎮 Fallout 4                        🕘 28 hrs 32 mins
 🎮 Craft The World                  🕘 10 hrs 14 mins
-🔫 Counter-Strike 2                 🕘 378 hrs 30 mins
+🔫 Counter-Strike 2                 🕘 379 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
