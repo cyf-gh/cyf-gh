@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2732 hrs 19 mins
+⚔️ Dota 2                           🕘 2732 hrs 40 mins
 🎮 Fallout 4                        🕘 29 hrs 33 mins
 🎮 Fallout: New Vegas               🕘 11 hrs 34 mins
 🎮 Age of Empires II: Definitive Edition 🕘 35 hrs 8 mins
