@@ -72,8 +72,8 @@
 ```text
 ⚔️ Dota 2                           🕘 2732 hrs 40 mins
 🎮 Fallout 4                        🕘 29 hrs 33 mins
-🎮 Fallout: New Vegas               🕘 11 hrs 34 mins
 🎮 Age of Empires II: Definitive Edition 🕘 35 hrs 8 mins
+🎮 Fallout: New Vegas               🕘 11 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 379 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
