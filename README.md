@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2734 hrs 54 mins
 🎮 Fallout 4                        🕘 29 hrs 33 mins
-🎮 Age of Empires II: Definitive Edition 🕘 36 hrs 18 mins
+🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 379 hrs 37 mins
 🎮 Valheim                          🕘 9 hrs 11 mins
 ```
