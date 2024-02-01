@@ -73,8 +73,8 @@
 ⚔️ Dota 2                           🕘 2738 hrs 10 mins
 🎮 Age of Empires II: Definitive Edition 🕘 39 hrs 7 mins
 🎮 Pizza Tower                      🕘 1 hrs 13 mins
-🔫 Counter-Strike 2                 🕘 379 hrs 37 mins
 🎮 Fallout: New Vegas               🕘 11 hrs 53 mins
+🔫 Counter-Strike 2                 🕘 379 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
