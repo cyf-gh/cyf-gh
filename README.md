@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2739 hrs 40 mins
-🎮 Age of Empires II: Definitive Edition 🕘 40 hrs 41 mins
+🎮 Age of Empires II: Definitive Edition 🕘 41 hrs 11 mins
 🎮 Pizza Tower                      🕘 1 hrs 29 mins
 🎮 Fallout: New Vegas               🕘 11 hrs 53 mins
 🔫 Counter-Strike 2                 🕘 379 hrs 37 mins
