@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2744 hrs 2 mins
+⚔️ Dota 2                           🕘 2744 hrs 32 mins
 🎮 Palworld                         🕘 7 hrs 28 mins
 🎮 Age of Empires II: Definitive Edition 🕘 42 hrs 53 mins
 🔫 Counter-Strike 2                 🕘 382 hrs 24 mins
