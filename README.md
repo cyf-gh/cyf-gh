@@ -72,8 +72,8 @@
 ```text
 ⚔️ Dota 2                           🕘 2745 hrs 11 mins
 🎮 Palworld                         🕘 7 hrs 28 mins
+🔫 Counter-Strike 2                 🕘 383 hrs 35 mins
 🎮 Age of Empires II: Definitive Edition 🕘 42 hrs 53 mins
-🔫 Counter-Strike 2                 🕘 382 hrs 24 mins
 🎮 Pizza Tower                      🕘 1 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
