@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2746 hrs 36 mins
 🎮 Palworld                         🕘 7 hrs 28 mins
-🔫 Counter-Strike 2                 🕘 383 hrs 36 mins
+🔫 Counter-Strike 2                 🕘 384 hrs 18 mins
 🎮 Age of Empires II: Definitive Edition 🕘 42 hrs 53 mins
 🎮 Pizza Tower                      🕘 1 hrs 29 mins
 ```
