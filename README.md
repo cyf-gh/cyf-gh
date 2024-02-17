@@ -74,7 +74,6 @@
 🎮 Palworld                         🕘 7 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 384 hrs 19 mins
 🎮 Age of Empires II: Definitive Edition 🕘 42 hrs 53 mins
-🎮 Pizza Tower                      🕘 1 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
