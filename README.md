@@ -72,7 +72,6 @@
 ```text
 ⚔️ Dota 2                           🕘 2755 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 386 hrs 8 mins
-🎮 Palworld                         🕘 7 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
