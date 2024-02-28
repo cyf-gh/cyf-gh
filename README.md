@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2760 hrs 43 mins
-🔫 Counter-Strike 2                 🕘 386 hrs 10 mins
+⚔️ Dota 2                           🕘 2761 hrs 19 mins
+🔫 Counter-Strike 2                 🕘 386 hrs 41 mins
 🎮 Age of Empires II: Definitive Edition 🕘 43 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
