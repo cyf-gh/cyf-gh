@@ -72,6 +72,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 397 hrs 55 mins
 ⚔️ Dota 2                           🕘 2771 hrs 21 mins
+🎮 Craft The World                  🕘 10 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
