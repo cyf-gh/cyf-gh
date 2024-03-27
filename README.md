@@ -72,7 +72,7 @@
 ```text
 🎮 Craft The World                  🕘 24 hrs 40 mins
 ⚔️ Dota 2                           🕘 2778 hrs 27 mins
-🔫 Counter-Strike 2                 🕘 400 hrs 38 mins
+🔫 Counter-Strike 2                 🕘 400 hrs 39 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
