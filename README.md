@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Craft The World                  🕘 24 hrs 40 mins
-⚔️ Dota 2                           🕘 2785 hrs 17 mins
+⚔️ Dota 2                           🕘 2785 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 402 hrs 58 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 28 mins
 ```
