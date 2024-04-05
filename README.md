@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2790 hrs 17 mins
+⚔️ Dota 2                           🕘 2791 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 406 hrs 35 mins
 🎮 SEGA Mega Drive & Genesis Classics 🕘 3 hrs 28 mins
 ```
