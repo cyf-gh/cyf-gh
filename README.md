@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2798 hrs 17 mins
-🔫 Counter-Strike 2                 🕘 408 hrs 57 mins
+🔫 Counter-Strike 2                 🕘 409 hrs 56 mins
 🎮 Fallout 4                        🕘 29 hrs 37 mins
 🎮 Fallout: New Vegas               🕘 11 hrs 53 mins
 ```
