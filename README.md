@@ -74,7 +74,6 @@
 🎮 Diablo® IV                       🕘 1 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 410 hrs 1 mins
 🎮 Fallout 4                        🕘 29 hrs 37 mins
-🎮 Fallout: New Vegas               🕘 11 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
