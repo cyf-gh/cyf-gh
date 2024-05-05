@@ -73,7 +73,6 @@
 ⚔️ Dota 2                           🕘 2825 hrs 4 mins
 🎮 Diablo® IV                       🕘 1 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 410 hrs 3 mins
-🎮 Fallout 4                        🕘 29 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
