@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2850 hrs 39 mins
+🎮 The Sims™ 4                      🕘 1 hrs 29 mins
 🔫 Counter-Strike 2                 🕘 411 hrs 55 mins
-🎮 The Sims™ 4                      🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
