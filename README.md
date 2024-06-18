@@ -70,8 +70,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2877 hrs 59 mins
-🎮 Banana                           🕘 1 hrs 8 mins
+⚔️ Dota 2                           🕘 2879 hrs 8 mins
+🎮 Banana                           🕘 3 hrs 31 mins
 🎮 Age of Empires III: Definitive Edition 🕘 10 hrs 46 mins
 🎮 Age of Empires II: Definitive Edition 🕘 44 hrs 21 mins
 ```
