@@ -74,6 +74,7 @@
 🎮 Banana                           🕘 4 hrs 19 mins
 🎮 Age of Empires II: Definitive Edition 🕘 46 hrs 35 mins
 🎮 Age of Empires III: Definitive Edition 🕘 10 hrs 46 mins
+🎮 SteamVR                          🕘 18 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
