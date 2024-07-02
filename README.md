@@ -73,8 +73,8 @@
 ⚔️ Dota 2                           🕘 2885 hrs 14 mins
 🎮 Age of Empires II: Definitive Edition 🕘 46 hrs 35 mins
 🎮 SteamVR                          🕘 19 hrs 9 mins
-🎮 Banana                           🕘 4 hrs 21 mins
 🎮 Google Earth VR                  🕘 3 hrs 41 mins
+🎮 Banana                           🕘 4 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
