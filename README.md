@@ -72,6 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2945 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 417 hrs 28 mins
+🎮 Age of Mythology: Retold         🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
