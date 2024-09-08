@@ -71,8 +71,9 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2945 hrs 21 mins
-🔫 Counter-Strike 2                 🕘 417 hrs 28 mins
+🔫 Counter-Strike 2                 🕘 417 hrs 58 mins
 🎮 Age of Mythology: Retold         🕘 0 hrs 57 mins
+🎮 Banana                           🕘 4 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
