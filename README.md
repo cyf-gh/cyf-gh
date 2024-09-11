@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-⚔️ Dota 2                           🕘 2948 hrs 9 mins
+⚔️ Dota 2                           🕘 2948 hrs 39 mins
 🎮 Age of Mythology: Retold         🕘 4 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 417 hrs 58 mins
 🎮 Banana                           🕘 4 hrs 21 mins
