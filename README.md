@@ -72,7 +72,7 @@
 ```text
 ⚔️ Dota 2                           🕘 2949 hrs 23 mins
 🎮 Age of Mythology: Retold         🕘 7 hrs 44 mins
-🎮 Deadlock                         🕘 6 hrs 29 mins
+🎮 Deadlock                         🕘 6 hrs 59 mins
 🔫 Counter-Strike 2                 🕘 418 hrs 45 mins
 🎮 Banana                           🕘 4 hrs 21 mins
 ```
