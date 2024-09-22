@@ -74,7 +74,6 @@
 🎮 Age of Mythology: Retold         🕘 7 hrs 44 mins
 ⚔️ Dota 2                           🕘 2949 hrs 56 mins
 🔫 Counter-Strike 2                 🕘 419 hrs 13 mins
-🎮 Banana                           🕘 4 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
