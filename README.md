@@ -72,7 +72,7 @@
 ```text
 🎮 Deadlock                         🕘 29 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 420 hrs 48 mins
-⚔️ Dota 2                           🕘 2951 hrs 4 mins
+⚔️ Dota 2                           🕘 2951 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
