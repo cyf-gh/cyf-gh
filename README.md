@@ -73,7 +73,7 @@
 🎮 Deadlock                         🕘 29 hrs 33 mins
 ⚔️ Dota 2                           🕘 2952 hrs 16 mins
 🔫 Counter-Strike 2                 🕘 420 hrs 48 mins
-🎮 Northgard                        🕘 0 hrs 30 mins
+🎮 Northgard                        🕘 1 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
