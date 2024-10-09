@@ -70,10 +70,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🔫 Counter-Strike 2                 🕘 422 hrs 30 mins
 🎮 Deadlock                         🕘 29 hrs 33 mins
 ⚔️ Dota 2                           🕘 2952 hrs 16 mins
 🎮 Northgard                        🕘 2 hrs 18 mins
-🔫 Counter-Strike 2                 🕘 421 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
