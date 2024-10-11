@@ -71,9 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2953 hrs 24 mins
+🎮 Northgard                        🕘 3 hrs 19 mins
 🔫 Counter-Strike 2                 🕘 422 hrs 30 mins
-🎮 Northgard                        🕘 2 hrs 18 mins
-🎮 Deadlock                         🕘 29 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
