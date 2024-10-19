@@ -72,9 +72,9 @@
 ```text
 ⚔️ Dota 2                           🕘 2963 hrs 2 mins
 🎮 Northgard                        🕘 5 hrs 20 mins
+🎮 Satisfactory Dedicated Server    🕘 97 hrs 13 mins
+🎮 Satisfactory                     🕘 39 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 423 hrs 50 mins
-🎮 Satisfactory Dedicated Server    🕘 96 hrs 8 mins
-🎮 Satisfactory                     🕘 38 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
