@@ -71,8 +71,8 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ⚔️ Dota 2                           🕘 2963 hrs 33 mins
-🎮 Satisfactory Dedicated Server    🕘 105 hrs 30 mins
-🎮 Satisfactory                     🕘 43 hrs 25 mins
+🎮 Satisfactory Dedicated Server    🕘 106 hrs 34 mins
+🎮 Satisfactory                     🕘 44 hrs 28 mins
 🎮 Northgard                        🕘 5 hrs 20 mins
 🔫 Counter-Strike 2                 🕘 423 hrs 50 mins
 ```
