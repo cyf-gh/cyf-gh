@@ -72,7 +72,7 @@
 ```text
 🎮 Satisfactory Dedicated Server    🕘 120 hrs 36 mins
 🎮 Satisfactory                     🕘 57 hrs 3 mins
-⚔️ Dota 2                           🕘 2964 hrs 38 mins
+⚔️ Dota 2                           🕘 2965 hrs 8 mins
 🔫 Counter-Strike 2                 🕘 423 hrs 50 mins
 🎮 Northgard                        🕘 5 hrs 20 mins
 ```
