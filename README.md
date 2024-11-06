@@ -72,7 +72,7 @@
 ```text
 🎮 Satisfactory Dedicated Server    🕘 155 hrs 57 mins
 🎮 Satisfactory                     🕘 67 hrs 17 mins
-⚔️ Dota 2                           🕘 2972 hrs 19 mins
+⚔️ Dota 2                           🕘 2972 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 423 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
