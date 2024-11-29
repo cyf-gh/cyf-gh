@@ -73,7 +73,8 @@
 ⚔️ Dota 2                           🕘 2992 hrs 51 mins
 🎮 Satisfactory Dedicated Server    🕘 171 hrs 34 mins
 🎮 Satisfactory                     🕘 79 hrs 37 mins
-🎮 Sons Of The Forest               🕘 1 hrs 10 mins
+🎮 Sons Of The Forest               🕘 1 hrs 51 mins
+🎮 Sons Of The Forest Dedicated Server 🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
