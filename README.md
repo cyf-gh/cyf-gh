@@ -74,7 +74,7 @@
 🎮 Sons Of The Forest               🕘 8 hrs 25 mins
 🎮 Satisfactory Dedicated Server    🕘 171 hrs 34 mins
 🎮 Satisfactory                     🕘 79 hrs 37 mins
-🎮 Sons Of The Forest Dedicated Server 🕘 1 hrs 22 mins
+🎮 Sons Of The Forest Dedicated Server 🕘 1 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
