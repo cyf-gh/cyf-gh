@@ -70,9 +70,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
+⚔️ Dota 2                           🕘 2993 hrs 32 mins
 🎮 Sons Of The Forest               🕘 10 hrs 37 mins
-⚔️ Dota 2                           🕘 2992 hrs 51 mins
 🎮 Sons Of The Forest Dedicated Server 🕘 1 hrs 28 mins
+🎮 Orcs Must Die! 3                 🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
