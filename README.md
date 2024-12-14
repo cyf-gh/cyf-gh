@@ -73,7 +73,7 @@
 🎮 Sons Of The Forest               🕘 10 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 429 hrs 21 mins
 🎮 Orcs Must Die! 3                 🕘 4 hrs 59 mins
-⚔️ Dota 2                           🕘 2995 hrs 43 mins
+⚔️ Dota 2                           🕘 2996 hrs 14 mins
 🎮 Sons Of The Forest Dedicated Server 🕘 1 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
