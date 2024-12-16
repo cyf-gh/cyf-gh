@@ -73,7 +73,6 @@
 🔫 Counter-Strike 2                 🕘 429 hrs 23 mins
 🎮 Orcs Must Die! 3                 🕘 4 hrs 59 mins
 ⚔️ Dota 2                           🕘 2996 hrs 14 mins
-🎮 Sons Of The Forest               🕘 10 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
