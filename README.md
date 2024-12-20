@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 435 hrs 40 mins
+🔫 Counter-Strike 2                 🕘 436 hrs 38 mins
 🎮 Orcs Must Die! 3                 🕘 4 hrs 59 mins
 ⚔️ Dota 2                           🕘 2996 hrs 14 mins
 ```
