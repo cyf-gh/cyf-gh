@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 439 hrs 1 mins
-🎮 Orcs Must Die! 3                 🕘 4 hrs 59 mins
+🎮 Orcs Must Die! 3                 🕘 5 hrs 4 mins
 ⚔️ Dota 2                           🕘 2996 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
