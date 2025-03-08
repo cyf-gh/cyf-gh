@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 704 hrs 38 mins
+🔫 Counter-Strike 2                 🕘 705 hrs 7 mins
 ⚔️ Dota 2                           🕘 3007 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
