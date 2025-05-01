@@ -72,7 +72,6 @@
 ```text
 🔫 Counter-Strike 2                 🕘 829 hrs 58 mins
 🎮 The Elder Scrolls IV: Oblivion Remastered 🕘 4 hrs 26 mins
-⚔️ Dota 2                           🕘 3024 hrs 35 mins
 🎮 Counter-Strike: Source           🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
