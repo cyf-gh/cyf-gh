@@ -71,7 +71,7 @@
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 839 hrs 58 mins
-🎮 The Elder Scrolls IV: Oblivion Remastered 🕘 4 hrs 26 mins
+🎮 The Elder Scrolls IV: Oblivion Remastered 🕘 4 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
