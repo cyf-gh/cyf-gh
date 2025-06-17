@@ -68,7 +68,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 900 hrs 8 mins
+🔫 Counter-Strike 2                 🕘 901 hrs 5 mins
 🎮 The Elder Scrolls IV: Oblivion Remastered 🕘 4 hrs 48 mins
 🎮 Counter-Strike: Source           🕘 0 hrs 18 mins
 🎮 Counter-Strike                   🕘 0 hrs 7 mins
