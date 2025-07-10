@@ -11,7 +11,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=radical&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!-- steam-box start -->
