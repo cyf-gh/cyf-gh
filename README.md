@@ -6,13 +6,12 @@
  * @Description: What is mind? No matter. What is matter? Nevermind.
 -->
 
+Amateur programmer 🚲
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" />  </p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> Amateur programmer 🚲 </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=radical&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=donut-vertical&theme=radical&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
