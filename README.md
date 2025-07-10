@@ -7,13 +7,11 @@
 -->
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyf-gh" alt="cyf-gh" /> Amateur programmer 🚲 </p>
 
-* 🚲 Amateur programmer 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-gh&layout=compact&theme=blue-green&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyf-gh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green" alt="cyf-gh" /></p>
 
  
 <!-- steam-box start -->
