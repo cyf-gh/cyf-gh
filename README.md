@@ -16,7 +16,7 @@ Amateur programmer 🚲
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ef193438e465860af6aea1a3da16f0cf" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 923 hrs 47 mins
+🔫 Counter-Strike 2                 🕘 924 hrs 22 mins
 🎮 Halo: The Master Chief Collection 🕘 5 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
